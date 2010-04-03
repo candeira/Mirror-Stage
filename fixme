@@ -1,0 +1,9 @@
+In file included from levelstructs.hpp:19,
+                 from main.hpp:26,
+                 from main.cpp:16:
+mathstuff.hpp: In function ‘bool segmentsIntersect(GLfloat, GLfloat, GLfloat, GLfloat, GLfloat, GLfloat, GLfloat, GLfloat)’:
+mathstuff.hpp:205: warning: suggest parentheses around ‘&&’ within ‘||’
+mathstuff.hpp: In function ‘bool lineSegmentIntersection(GLfloat, GLfloat, GLfloat, GLfloat, GLfloat, GLfloat, GLfloat, GLfloat, GLfloat*, GLfloat*)’:
+mathstuff.hpp:245: warning: suggest parentheses around ‘&&’ within ‘||’
+main.cpp: In function ‘void moveEntity(Entity&, int)’:
+main.cpp:410: warning: suggest parentheses around ‘&&’ within ‘||’

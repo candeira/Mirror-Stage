@@ -1,0 +1,18 @@
+--basic screen/display settings
+--
+-- Default values
+--
+-- screenwidth=640
+-- screenheight=480
+-- fullscreen=true
+-- maxdepth=500 --maximum number of rooms to show
+-- maxrealdepth=30 --maximum number of rooms to step through;
+--				   upper bound constrained by hardware...values above 30 might have no effect on some hardware
+-- correct_aspect=0
+
+screenwidth = 640
+screenheight = 480
+fullscreen = true
+maxdepth = 500
+maxrealdepth=30
+correct_aspect=false --currently doesn't do anything

@@ -1,0 +1,949 @@
+In file included from audio.cpp:1:
+audio.hpp:1:23: error: fmod/fmod.h: No such file or directory
+audio.hpp:2:30: error: fmod/fmod_errors.h: No such file or directory
+audio.hpp:7:17: error: SDL.h: No such file or directory
+audio.hpp:8:24: error: SDL_opengl.h: No such file or directory
+In file included from audio.cpp:1:
+audio.hpp:16: error: ISO C++ forbids declaration of ‘FMOD_SYSTEM’ with no type
+audio.hpp:16: error: expected ‘;’ before ‘*’ token
+audio.hpp:17: error: ISO C++ forbids declaration of ‘FMOD_SOUND’ with no type
+audio.hpp:17: error: expected ‘;’ before ‘*’ token
+audio.cpp:11: error: variable or field ‘ERRCHECK’ declared void
+audio.cpp:11: error: ‘FMOD_RESULT’ was not declared in this scope
+audio.hpp:1:23: error: fmod/fmod.h: No such file or directory
+audio.hpp:2:30: error: fmod/fmod_errors.h: No such file or directory
+audio.hpp:7:17: error: SDL.h: No such file or directory
+audio.hpp:8:24: error: SDL_opengl.h: No such file or directory
+audio.hpp:16: error: ISO C++ forbids declaration of ‘FMOD_SYSTEM’ with no type
+audio.hpp:16: error: expected ‘;’ before ‘*’ token
+audio.hpp:17: error: ISO C++ forbids declaration of ‘FMOD_SOUND’ with no type
+audio.hpp:17: error: expected ‘;’ before ‘*’ token
+colours.hpp:5:17: error: SDL.h: No such file or directory
+colours.hpp:6:24: error: SDL_opengl.h: No such file or directory
+colours.hpp:9: error: ‘GLfloat’ does not name a type
+colours.hpp:13: error: ‘Colour’ does not name a type
+colours.hpp:14: error: ‘Colour’ does not name a type
+colours.hpp:15: error: ‘Colour’ does not name a type
+colours.hpp:16: error: ‘Colour’ does not name a type
+colours.hpp:17: error: ‘Colour’ does not name a type
+colours.hpp:18: error: ‘Colour’ does not name a type
+colours.hpp:27: error: ‘Colour’ does not name a type
+colours.hpp:28: error: ‘Colour’ does not name a type
+colours.hpp:29: error: ‘Colour’ does not name a type
+colours.hpp:30: error: ‘Colour’ does not name a type
+colours.hpp:31: error: ‘Colour’ does not name a type
+colours.hpp:32: error: ‘Colour’ does not name a type
+colours.hpp:33: error: ‘Colour’ does not name a type
+colours.hpp:34: error: ‘Colour’ does not name a type
+colours.hpp:35: error: ‘Colour’ does not name a type
+colours.hpp:36: error: ‘Colour’ does not name a type
+colours.hpp:37: error: ‘Colour’ does not name a type
+In file included from config.cpp:11:
+config.hpp:16:17: error: SDL.h: No such file or directory
+config.hpp:17:24: error: SDL_opengl.h: No such file or directory
+config.cpp:23:17: error: lua.h: No such file or directory
+config.cpp:24:20: error: lualib.h: No such file or directory
+config.cpp:25:21: error: lauxlib.h: No such file or directory
+config.cpp: In function ‘void load_config_vars()’:
+config.cpp:41: error: ‘lua_State’ was not declared in this scope
+config.cpp:41: error: ‘L’ was not declared in this scope
+config.cpp:47: error: ‘luaL_newstate’ was not declared in this scope
+config.cpp:49: error: ‘luaL_openlibs’ was not declared in this scope
+config.cpp:52: error: ‘luaL_loadfile’ was not declared in this scope
+config.cpp:56: error: ‘lua_tostring’ was not declared in this scope
+config.cpp:61: error: ‘LUA_MULTRET’ was not declared in this scope
+config.cpp:61: error: ‘lua_pcall’ was not declared in this scope
+config.cpp:63: error: ‘lua_getglobal’ was not declared in this scope
+config.cpp:64: error: ‘lua_tonumber’ was not declared in this scope
+config.cpp:70: error: ‘lua_toboolean’ was not declared in this scope
+config.cpp:78: error: ‘lua_close’ was not declared in this scope
+config.hpp:16:17: error: SDL.h: No such file or directory
+config.hpp:17:24: error: SDL_opengl.h: No such file or directory
+editor.hpp:7: error: ‘EditorState’ has not been declared
+editor.hpp: In function ‘void traceRooms()’:
+editor.hpp:9: error: ‘ROOMCOUNT’ was not declared in this scope
+editor.hpp:11: error: ‘component’ was not declared in this scope
+editor.hpp:15: error: ‘level’ was not declared in this scope
+editor.hpp:15: error: ‘traceRoom’ was not declared in this scope
+editor.hpp:17: error: ‘indexFreeRooms’ was not declared in this scope
+editor.hpp: At global scope:
+editor.hpp:20: error: ‘EditorState’ has not been declared
+editor.hpp: In function ‘void traceRoom(int)’:
+editor.hpp:22: error: ‘component’ was not declared in this scope
+editor.hpp:24: error: ‘shapesize’ was not declared in this scope
+editor.hpp:24: error: ‘level’ was not declared in this scope
+editor.hpp: At global scope:
+editor.hpp:34: error: ‘EditorState’ has not been declared
+editor.hpp: In function ‘void indexFreeRooms()’:
+editor.hpp:38: error: ‘ROOMCOUNT’ was not declared in this scope
+editor.hpp:40: error: ‘component’ was not declared in this scope
+editor.hpp: At global scope:
+editor.hpp:48: error: ‘EditorState’ has not been declared
+editor.hpp:48: error: variable or field ‘removePortal’ declared void
+editor.hpp:48: error: ‘Portal’ was not declared in this scope
+entities.hpp:48: error: ‘GLfloat’ does not name a type
+entities.hpp:49: error: ‘GLfloat’ does not name a type
+entities.hpp:50: error: ‘GLfloat’ does not name a type
+entities.hpp:51: error: ‘GLfloat’ does not name a type
+entities.hpp:52: error: ‘GLfloat’ does not name a type
+entities.hpp:53: error: ‘GLfloat’ does not name a type
+entities.hpp:54: error: ‘GLfloat’ does not name a type
+filesys.hpp:38:37: error: boost/filesystem/path.hpp: No such file or directory
+filesys.hpp:39:43: error: boost/filesystem/operations.hpp: No such file or directory
+filesys.hpp:40:42: error: boost/filesystem/exception.hpp: No such file or directory
+filesys.hpp:41:39: error: boost/filesystem/config.hpp: No such file or directory
+filesys.hpp:42:44: error: boost/filesystem/convenience.hpp: No such file or directory
+filesys.hpp:43:40: error: boost/filesystem/fstream.hpp: No such file or directory
+filesys.hpp:47: error: ‘string’ does not name a type
+filesys.hpp:51: error: expected constructor, destructor, or type conversion before ‘<’ token
+filesys.hpp:52: error: expected constructor, destructor, or type conversion before ‘<’ token
+filesys.hpp: In function ‘bool compare_nocase(EpisodeDat, EpisodeDat)’:
+filesys.hpp:58: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:58: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:60: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:60: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:61: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:61: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:64: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:64: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp: At global scope:
+filesys.hpp:69: error: ‘boost’ has not been declared
+filesys.hpp:69: error: ‘filesystem’ is not a namespace-name
+filesys.hpp:69: error: expected namespace-name before ‘;’ token
+filesys.hpp: In function ‘void getEpisodeData()’:
+filesys.hpp:74: error: ‘episodeList’ was not declared in this scope
+filesys.hpp:75: error: ‘bf’ has not been declared
+filesys.hpp:75: error: expected ‘;’ before ‘p’
+filesys.hpp:76: error: ‘bf’ has not been declared
+filesys.hpp:76: error: expected ‘;’ before ‘dir_iter’
+filesys.hpp:78: error: ‘dir_iter’ was not declared in this scope
+filesys.hpp:78: error: ‘dir_end’ was not declared in this scope
+filesys.hpp:81: error: ‘bf’ has not been declared
+filesys.hpp:84: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:86: error: ‘bf’ has not been declared
+filesys.hpp:86: error: expected ‘;’ before ‘p’
+filesys.hpp:87: error: ‘bf’ has not been declared
+filesys.hpp:87: error: expected ‘;’ before ‘sub_dir_iter’
+filesys.hpp:88: error: ‘sub_dir_iter’ was not declared in this scope
+filesys.hpp:88: error: ‘sub_dir_end’ was not declared in this scope
+filesys.hpp:90: error: ‘bf’ has not been declared
+filesys.hpp:97: error: ‘sort’ was not declared in this scope
+filesys.hpp:101: error: ‘customEpisodeList’ was not declared in this scope
+filesys.hpp:102: error: ‘bf’ has not been declared
+filesys.hpp:102: error: expected ‘;’ before ‘p’
+filesys.hpp:103: error: ‘bf’ has not been declared
+filesys.hpp:103: error: expected ‘;’ before ‘dir_iter’
+filesys.hpp:104: error: ‘dir_iter’ was not declared in this scope
+filesys.hpp:104: error: ‘dir_end’ was not declared in this scope
+filesys.hpp:106: error: ‘bf’ has not been declared
+filesys.hpp:109: error: ‘struct EpisodeDat’ has no member named ‘name’
+filesys.hpp:111: error: ‘bf’ has not been declared
+filesys.hpp:111: error: expected ‘;’ before ‘p’
+filesys.hpp:112: error: ‘bf’ has not been declared
+filesys.hpp:112: error: expected ‘;’ before ‘sub_dir_iter’
+filesys.hpp:113: error: ‘sub_dir_iter’ was not declared in this scope
+filesys.hpp:113: error: ‘sub_dir_end’ was not declared in this scope
+filesys.hpp:115: error: ‘bf’ has not been declared
+filesys.hpp:123: error: ‘sort’ was not declared in this scope
+filesys.hpp: At global scope:
+filesys.hpp:129: error: variable or field ‘deleteDir’ declared void
+filesys.hpp:129: error: ‘string’ was not declared in this scope
+filesys.hpp:134: error: variable or field ‘renameFile’ declared void
+filesys.hpp:134: error: ‘string’ was not declared in this scope
+filesys.hpp:134: error: ‘string’ was not declared in this scope
+font.hpp: In function ‘void print_straight_letter(int)’:
+font.hpp:282: error: ‘glPushMatrix’ was not declared in this scope
+font.hpp:290: error: ‘GL_POLYGON’ was not declared in this scope
+font.hpp:290: error: ‘glBegin’ was not declared in this scope
+font.hpp:291: error: ‘glVertex2f’ was not declared in this scope
+font.hpp:295: error: ‘glEnd’ was not declared in this scope
+font.hpp:297: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:299: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:300: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:302: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp: At global scope:
+font.hpp:306: error: ISO C++ forbids declaration of ‘string’ with no type
+font.hpp:306: error: expected ‘,’ or ‘...’ before ‘&’ token
+font.hpp: In function ‘void print_straight_text(int)’:
+font.hpp:308: error: ‘glPushMatrix’ was not declared in this scope
+font.hpp:309: error: ‘glScalef’ was not declared in this scope
+font.hpp:315: error: ‘s’ was not declared in this scope
+font.hpp:320: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:321: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:326: error: ‘chartonum’ was not declared in this scope
+font.hpp:328: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:333: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp: In function ‘void printletter(int)’:
+font.hpp:340: error: ‘glPushMatrix’ was not declared in this scope
+font.hpp:348: error: ‘GL_QUADS’ was not declared in this scope
+font.hpp:348: error: ‘glBegin’ was not declared in this scope
+font.hpp:350: error: ‘rand’ was not declared in this scope
+font.hpp:350: error: ‘glVertex2f’ was not declared in this scope
+font.hpp:354: error: ‘glEnd’ was not declared in this scope
+font.hpp:356: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:358: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:359: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:361: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp: In function ‘void print_text(const char*)’:
+font.hpp:397: error: ‘glPushMatrix’ was not declared in this scope
+font.hpp:398: error: ‘c_text’ was not declared in this scope
+font.hpp:398: error: ‘glColor3fv’ was not declared in this scope
+font.hpp:400: error: ‘glScalef’ was not declared in this scope
+font.hpp:402: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:414: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:423: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:434: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp: In function ‘void print_text2(const char*)’:
+font.hpp:443: error: ‘glPushMatrix’ was not declared in this scope
+font.hpp:444: error: ‘c_text’ was not declared in this scope
+font.hpp:444: error: ‘glColor3fv’ was not declared in this scope
+font.hpp:446: error: ‘glScalef’ was not declared in this scope
+font.hpp:458: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:459: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:467: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:468: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:473: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:484: error: ‘glPopMatrix’ was not declared in this scope
+font.hpp:485: error: ‘glTranslatef’ was not declared in this scope
+font.hpp:490: error: ‘rand’ was not declared in this scope
+font.hpp:492: error: ‘GL_QUADS’ was not declared in this scope
+font.hpp:492: error: ‘glBegin’ was not declared in this scope
+font.hpp:493: error: ‘glVertex2f’ was not declared in this scope
+font.hpp:497: error: ‘glEnd’ was not declared in this scope
+font.hpp:500: error: ‘glPopMatrix’ was not declared in this scope
+levelstructs.hpp:5:17: error: SDL.h: No such file or directory
+levelstructs.hpp:6:24: error: SDL_opengl.h: No such file or directory
+levelstructs.hpp:12:33: error: boost/multi_array.hpp: No such file or directory
+In file included from levelstructs.hpp:19:
+mathstuff.hpp:21: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:23: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:28: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:33: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:41: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:52: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:53: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:54: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:64: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:69: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: initializer expression list treated as compound expression
+mathstuff.hpp:76: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:80: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:85: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:90: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:102: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:107: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:139: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:172: error: variable or field ‘closest_point’ declared void
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘x4’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘y4’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: initializer expression list treated as compound expression
+mathstuff.hpp:185: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘X’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘Y’ was not declared in this scope
+mathstuff.hpp:223: error: initializer expression list treated as compound expression
+mathstuff.hpp:224: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+In file included from levelstructs.hpp:19:
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: initializer expression list treated as compound expression
+mathstuff.hpp:264: error: expected ‘,’ or ‘;’ before ‘{’ token
+In file included from levelstructs.hpp:20:
+entities.hpp:48: error: ‘GLfloat’ does not name a type
+entities.hpp:49: error: ‘GLfloat’ does not name a type
+entities.hpp:50: error: ‘GLfloat’ does not name a type
+entities.hpp:51: error: ‘GLfloat’ does not name a type
+entities.hpp:52: error: ‘GLfloat’ does not name a type
+entities.hpp:53: error: ‘GLfloat’ does not name a type
+entities.hpp:54: error: ‘GLfloat’ does not name a type
+In file included from levelstructs.hpp:21:
+colours.hpp:9: error: ‘GLfloat’ does not name a type
+colours.hpp:13: error: ‘Colour’ does not name a type
+colours.hpp:14: error: ‘Colour’ does not name a type
+colours.hpp:15: error: ‘Colour’ does not name a type
+colours.hpp:16: error: ‘Colour’ does not name a type
+colours.hpp:17: error: ‘Colour’ does not name a type
+colours.hpp:18: error: ‘Colour’ does not name a type
+colours.hpp:27: error: ‘Colour’ does not name a type
+colours.hpp:28: error: ‘Colour’ does not name a type
+colours.hpp:29: error: ‘Colour’ does not name a type
+colours.hpp:30: error: ‘Colour’ does not name a type
+colours.hpp:31: error: ‘Colour’ does not name a type
+colours.hpp:32: error: ‘Colour’ does not name a type
+colours.hpp:33: error: ‘Colour’ does not name a type
+colours.hpp:34: error: ‘Colour’ does not name a type
+colours.hpp:35: error: ‘Colour’ does not name a type
+colours.hpp:36: error: ‘Colour’ does not name a type
+colours.hpp:37: error: ‘Colour’ does not name a type
+In file included from levelstructs.hpp:22:
+roomshapes.hpp:57: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:42: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:43: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:44: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:47: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:51: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:52: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:80: error: ‘GLfloat’ was not declared in this scope
+levelstructs.hpp:80: error: template argument 1 is invalid
+levelstructs.hpp:80: error: template argument 2 is invalid
+levelstructs.hpp:81: error: ‘boost’ has not been declared
+levelstructs.hpp:81: error: ISO C++ forbids declaration of ‘multi_array’ with no type
+levelstructs.hpp:81: error: expected ‘;’ before ‘<’ token
+levelstructs.hpp:82: error: ‘boost’ has not been declared
+levelstructs.hpp:82: error: ISO C++ forbids declaration of ‘multi_array’ with no type
+levelstructs.hpp:82: error: expected ‘;’ before ‘<’ token
+levelstructs.hpp:87: error: ‘GLuint’ does not name a type
+levelstructs.hpp:88: error: ‘GLuint’ does not name a type
+levelstructs.hpp:89: error: ‘GLuint’ does not name a type
+In file included from main.cpp:15:
+main.hpp:7:17: error: SDL.h: No such file or directory
+main.hpp:8:24: error: SDL_opengl.h: No such file or directory
+In file included from main.hpp:26,
+                 from main.cpp:15:
+levelstructs.hpp:12:33: error: boost/multi_array.hpp: No such file or directory
+In file included from main.hpp:30,
+                 from main.cpp:15:
+audio.hpp:1:23: error: fmod/fmod.h: No such file or directory
+audio.hpp:2:30: error: fmod/fmod_errors.h: No such file or directory
+In file included from main.cpp:16:
+readwrite.hpp:2:30: error: boost/tokenizer.hpp: No such file or directory
+readwrite.hpp:3:43: error: boost/archive/text_oarchive.hpp: No such file or directory
+readwrite.hpp:4:43: error: boost/archive/text_iarchive.hpp: No such file or directory
+readwrite.hpp:5:42: error: boost/serialization/vector.hpp: No such file or directory
+In file included from main.cpp:17:
+savegame.hpp:2:40: error: boost/filesystem/fstream.hpp: No such file or directory
+savegame.hpp:4:45: error: boost/archive/binary_oarchive.hpp: No such file or directory
+savegame.hpp:5:45: error: boost/archive/binary_iarchive.hpp: No such file or directory
+In file included from main.cpp:18:
+filesys.hpp:38:37: error: boost/filesystem/path.hpp: No such file or directory
+filesys.hpp:39:43: error: boost/filesystem/operations.hpp: No such file or directory
+filesys.hpp:40:42: error: boost/filesystem/exception.hpp: No such file or directory
+filesys.hpp:41:39: error: boost/filesystem/config.hpp: No such file or directory
+filesys.hpp:42:44: error: boost/filesystem/convenience.hpp: No such file or directory
+In file included from main.hpp:24,
+                 from main.cpp:15:
+timer.hpp: In member function ‘void Timer::start()’:
+timer.hpp:53: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘void Timer::pause()’:
+timer.hpp:77: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘void Timer::unpause()’:
+timer.hpp:91: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘int Timer::get_ticks()’:
+timer.hpp:113: error: ‘SDL_GetTicks’ was not declared in this scope
+In file included from levelstructs.hpp:19,
+                 from main.hpp:26,
+                 from main.cpp:15:
+mathstuff.hpp: At global scope:
+mathstuff.hpp:21: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:23: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:28: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:33: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:41: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:52: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:53: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:54: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:64: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:69: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: initializer expression list treated as compound expression
+mathstuff.hpp:76: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:80: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:85: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:90: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:102: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:107: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:139: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:172: error: variable or field ‘closest_point’ declared void
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘x4’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘y4’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: initializer expression list treated as compound expression
+mathstuff.hpp:185: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘X’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘Y’ was not declared in this scope
+mathstuff.hpp:223: error: initializer expression list treated as compound expression
+mathstuff.hpp:224: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+In file included from levelstructs.hpp:19,
+                 from main.hpp:26,
+                 from main.cpp:15:
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: initializer expression list treated as compound expression
+mathstuff.hpp:264: error: expected ‘,’ or ‘;’ before ‘{’ token
+In file included from levelstructs.hpp:20,
+                 from main.hpp:26,
+                 from main.cpp:15:
+entities.hpp:48: error: ‘GLfloat’ does not name a type
+entities.hpp:49: error: ‘GLfloat’ does not name a type
+entities.hpp:50: error: ‘GLfloat’ does not name a type
+entities.hpp:51: error: ‘GLfloat’ does not name a type
+entities.hpp:52: error: ‘GLfloat’ does not name a type
+entities.hpp:53: error: ‘GLfloat’ does not name a type
+entities.hpp:54: error: ‘GLfloat’ does not name a type
+In file included from levelstructs.hpp:21,
+                 from main.hpp:26,
+                 from main.cpp:15:
+colours.hpp:9: error: ‘GLfloat’ does not name a type
+colours.hpp:13: error: ‘Colour’ does not name a type
+colours.hpp:14: error: ‘Colour’ does not name a type
+colours.hpp:15: error: ‘Colour’ does not name a type
+colours.hpp:16: error: ‘Colour’ does not name a type
+colours.hpp:17: error: ‘Colour’ does not name a type
+colours.hpp:18: error: ‘Colour’ does not name a type
+colours.hpp:27: error: ‘Colour’ does not name a type
+colours.hpp:28: error: ‘Colour’ does not name a type
+colours.hpp:29: error: ‘Colour’ does not name a type
+colours.hpp:30: error: ‘Colour’ does not name a type
+colours.hpp:31: error: ‘Colour’ does not name a type
+colours.hpp:32: error: ‘Colour’ does not name a type
+colours.hpp:33: error: ‘Colour’ does not name a type
+colours.hpp:34: error: ‘Colour’ does not name a type
+colours.hpp:35: error: ‘Colour’ does not name a type
+colours.hpp:36: error: ‘Colour’ does not name a type
+colours.hpp:37: error: ‘Colour’ does not name a type
+In file included from levelstructs.hpp:22,
+                 from main.hpp:26,
+                 from main.cpp:15:
+roomshapes.hpp:57: error: ‘GLfloat’ does not name a type
+In file included from main.hpp:26,
+                 from main.cpp:15:
+levelstructs.hpp:42: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:43: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:44: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:47: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:51: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:52: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:80: error: ‘GLfloat’ was not declared in this scope
+levelstructs.hpp:80: error: template argument 1 is invalid
+levelstructs.hpp:80: error: template argument 2 is invalid
+levelstructs.hpp:81: error: ‘boost’ has not been declared
+levelstructs.hpp:81: error: ISO C++ forbids declaration of ‘multi_array’ with no type
+levelstructs.hpp:81: error: expected ‘;’ before ‘<’ token
+levelstructs.hpp:82: error: ‘boost’ has not been declared
+levelstructs.hpp:82: error: ISO C++ forbids declaration of ‘multi_array’ with no type
+levelstructs.hpp:82: error: expected ‘;’ before ‘<’ token
+levelstructs.hpp:87: error: ‘GLuint’ does not name a type
+levelstructs.hpp:88: error: ‘GLuint’ does not name a type
+levelstructs.hpp:89: error: ‘GLuint’ does not name a type
+In file included from main.hpp:28,
+                 from main.cpp:15:
+shapes.hpp:10: error: ‘GLfloat’ does not name a type
+shapes.hpp:11: error: ‘GLfloat’ does not name a type
+shapes.hpp:16: error: ‘GLfloat’ does not name a type
+shapes.hpp:120: error: ‘GLfloat’ does not name a type
+shapes.hpp:167: error: ‘GLfloat’ does not name a type
+shapes.hpp:221: error: ‘GLfloat’ does not name a type
+shapes.hpp:283: error: ‘GLfloat’ does not name a type
+In file included from main.hpp:30,
+                 from main.cpp:15:
+audio.hpp:16: error: ISO C++ forbids declaration of ‘FMOD_SYSTEM’ with no type
+audio.hpp:16: error: expected ‘;’ before ‘*’ token
+audio.hpp:17: error: ISO C++ forbids declaration of ‘FMOD_SOUND’ with no type
+audio.hpp:17: error: expected ‘;’ before ‘*’ token
+In file included from main.cpp:15:
+main.hpp:59: error: ‘GLfloat’ does not name a type
+main.hpp:60: error: ‘GLfloat’ was not declared in this scope
+main.hpp:60: warning: attributes after parenthesized initializer ignored
+main.hpp:61: error: ‘GLfloat’ was not declared in this scope
+main.hpp:61: warning: attributes after parenthesized initializer ignored
+main.hpp:63: error: ‘GLfloat’ has not been declared
+main.hpp:64: error: ‘GLfloat’ has not been declared
+main.hpp:64: error: ‘GLfloat’ has not been declared
+main.hpp:65: error: ‘GLfloat’ has not been declared
+main.hpp:65: error: ‘GLfloat’ has not been declared
+In file included from main.cpp:15:
+main.hpp:65: error: ‘GLfloat’ has not been declared
+main.hpp:148: error: ‘GLfloat’ does not name a type
+main.hpp:163: error: ‘GLfloat’ does not name a type
+In file included from main.cpp:16:
+readwrite.hpp:9: error: ‘boost’ is not a namespace-name
+readwrite.hpp:9: error: expected namespace-name before ‘;’ token
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, PlayerPos&, unsigned int)’:
+readwrite.hpp:54: error: ‘struct PlayerPos’ has no member named ‘x’
+readwrite.hpp:55: error: ‘struct PlayerPos’ has no member named ‘y’
+readwrite.hpp:56: error: ‘struct PlayerPos’ has no member named ‘dir’
+readwrite.hpp:59: error: ‘struct PlayerPos’ has no member named ‘scale’
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, Entity&, unsigned int)’:
+readwrite.hpp:119: error: ‘struct Entity’ has no member named ‘dat’
+readwrite.hpp:120: error: ‘struct Entity’ has no member named ‘x’
+readwrite.hpp:121: error: ‘struct Entity’ has no member named ‘y’
+readwrite.hpp:122: error: ‘struct Entity’ has no member named ‘x2’
+readwrite.hpp:123: error: ‘struct Entity’ has no member named ‘y2’
+readwrite.hpp:124: error: ‘struct Entity’ has no member named ‘x3’
+readwrite.hpp:125: error: ‘struct Entity’ has no member named ‘y3’
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, ColourScheme&, unsigned int)’:
+readwrite.hpp:172: error: ‘struct ColourScheme’ has no member named ‘outline’
+readwrite.hpp:173: error: ‘struct ColourScheme’ has no member named ‘oddroomunvisited’
+readwrite.hpp:174: error: ‘struct ColourScheme’ has no member named ‘evenroomunvisited’
+readwrite.hpp:175: error: ‘struct ColourScheme’ has no member named ‘oddroomvisited’
+readwrite.hpp:176: error: ‘struct ColourScheme’ has no member named ‘evenroomvisited’
+readwrite.hpp:177: error: ‘struct ColourScheme’ has no member named ‘background’
+readwrite.hpp: At global scope:
+readwrite.hpp:192: error: expected identifier before numeric constant
+readwrite.hpp:192: error: expected ‘,’ or ‘...’ before numeric constant
+readwrite.hpp:193: error: expected constructor, destructor, or type conversion before ‘BOOST_CLASS_VERSION’
+main.hpp:7:17: error: SDL.h: No such file or directory
+main.hpp:8:24: error: SDL_opengl.h: No such file or directory
+In file included from main.hpp:26:
+levelstructs.hpp:12:33: error: boost/multi_array.hpp: No such file or directory
+In file included from main.hpp:30:
+audio.hpp:1:23: error: fmod/fmod.h: No such file or directory
+audio.hpp:2:30: error: fmod/fmod_errors.h: No such file or directory
+In file included from main.hpp:24:
+timer.hpp: In member function ‘void Timer::start()’:
+timer.hpp:53: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘void Timer::pause()’:
+timer.hpp:77: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘void Timer::unpause()’:
+timer.hpp:91: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘int Timer::get_ticks()’:
+timer.hpp:113: error: ‘SDL_GetTicks’ was not declared in this scope
+In file included from levelstructs.hpp:19,
+                 from main.hpp:26:
+mathstuff.hpp: At global scope:
+mathstuff.hpp:21: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:23: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:28: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:33: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:41: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:52: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:53: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:54: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:64: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:69: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: initializer expression list treated as compound expression
+mathstuff.hpp:76: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:80: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:85: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:90: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:102: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:107: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:139: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:172: error: variable or field ‘closest_point’ declared void
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘x4’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘y4’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: initializer expression list treated as compound expression
+mathstuff.hpp:185: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘X’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘Y’ was not declared in this scope
+mathstuff.hpp:223: error: initializer expression list treated as compound expression
+mathstuff.hpp:224: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+In file included from levelstructs.hpp:19,
+                 from main.hpp:26:
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: initializer expression list treated as compound expression
+mathstuff.hpp:264: error: expected ‘,’ or ‘;’ before ‘{’ token
+In file included from levelstructs.hpp:20,
+                 from main.hpp:26:
+entities.hpp:48: error: ‘GLfloat’ does not name a type
+entities.hpp:49: error: ‘GLfloat’ does not name a type
+entities.hpp:50: error: ‘GLfloat’ does not name a type
+entities.hpp:51: error: ‘GLfloat’ does not name a type
+entities.hpp:52: error: ‘GLfloat’ does not name a type
+entities.hpp:53: error: ‘GLfloat’ does not name a type
+entities.hpp:54: error: ‘GLfloat’ does not name a type
+In file included from levelstructs.hpp:21,
+                 from main.hpp:26:
+colours.hpp:9: error: ‘GLfloat’ does not name a type
+colours.hpp:13: error: ‘Colour’ does not name a type
+colours.hpp:14: error: ‘Colour’ does not name a type
+colours.hpp:15: error: ‘Colour’ does not name a type
+colours.hpp:16: error: ‘Colour’ does not name a type
+colours.hpp:17: error: ‘Colour’ does not name a type
+colours.hpp:18: error: ‘Colour’ does not name a type
+colours.hpp:27: error: ‘Colour’ does not name a type
+colours.hpp:28: error: ‘Colour’ does not name a type
+colours.hpp:29: error: ‘Colour’ does not name a type
+colours.hpp:30: error: ‘Colour’ does not name a type
+colours.hpp:31: error: ‘Colour’ does not name a type
+colours.hpp:32: error: ‘Colour’ does not name a type
+colours.hpp:33: error: ‘Colour’ does not name a type
+colours.hpp:34: error: ‘Colour’ does not name a type
+colours.hpp:35: error: ‘Colour’ does not name a type
+colours.hpp:36: error: ‘Colour’ does not name a type
+colours.hpp:37: error: ‘Colour’ does not name a type
+In file included from levelstructs.hpp:22,
+                 from main.hpp:26:
+roomshapes.hpp:57: error: ‘GLfloat’ does not name a type
+In file included from main.hpp:26:
+levelstructs.hpp:42: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:43: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:44: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:47: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:51: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:52: error: ‘GLfloat’ does not name a type
+levelstructs.hpp:80: error: ‘GLfloat’ was not declared in this scope
+levelstructs.hpp:80: error: template argument 1 is invalid
+levelstructs.hpp:80: error: template argument 2 is invalid
+levelstructs.hpp:81: error: ‘boost’ has not been declared
+levelstructs.hpp:81: error: ISO C++ forbids declaration of ‘multi_array’ with no type
+levelstructs.hpp:81: error: expected ‘;’ before ‘<’ token
+levelstructs.hpp:82: error: ‘boost’ has not been declared
+levelstructs.hpp:82: error: ISO C++ forbids declaration of ‘multi_array’ with no type
+levelstructs.hpp:82: error: expected ‘;’ before ‘<’ token
+levelstructs.hpp:87: error: ‘GLuint’ does not name a type
+levelstructs.hpp:88: error: ‘GLuint’ does not name a type
+levelstructs.hpp:89: error: ‘GLuint’ does not name a type
+In file included from main.hpp:28:
+shapes.hpp:10: error: ‘GLfloat’ does not name a type
+shapes.hpp:11: error: ‘GLfloat’ does not name a type
+shapes.hpp:16: error: ‘GLfloat’ does not name a type
+shapes.hpp:120: error: ‘GLfloat’ does not name a type
+shapes.hpp:167: error: ‘GLfloat’ does not name a type
+shapes.hpp:221: error: ‘GLfloat’ does not name a type
+shapes.hpp:283: error: ‘GLfloat’ does not name a type
+In file included from main.hpp:30:
+audio.hpp:16: error: ISO C++ forbids declaration of ‘FMOD_SYSTEM’ with no type
+audio.hpp:16: error: expected ‘;’ before ‘*’ token
+audio.hpp:17: error: ISO C++ forbids declaration of ‘FMOD_SOUND’ with no type
+audio.hpp:17: error: expected ‘;’ before ‘*’ token
+main.hpp:59: error: ‘GLfloat’ does not name a type
+main.hpp:60: error: ‘GLfloat’ was not declared in this scope
+main.hpp:60: warning: attributes after parenthesized initializer ignored
+main.hpp:61: error: ‘GLfloat’ was not declared in this scope
+main.hpp:61: warning: attributes after parenthesized initializer ignored
+main.hpp:63: error: ‘GLfloat’ has not been declared
+main.hpp:64: error: ‘GLfloat’ has not been declared
+main.hpp:64: error: ‘GLfloat’ has not been declared
+main.hpp:65: error: ‘GLfloat’ has not been declared
+main.hpp:65: error: ‘GLfloat’ has not been declared
+main.hpp:65: error: ‘GLfloat’ has not been declared
+main.hpp:148: error: ‘GLfloat’ does not name a type
+main.hpp:163: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:11:17: error: SDL.h: No such file or directory
+mathstuff.hpp:12:24: error: SDL_opengl.h: No such file or directory
+mathstuff.hpp:21: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:23: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:28: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:33: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:41: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:52: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:53: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:54: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:64: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:69: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:75: error: initializer expression list treated as compound expression
+mathstuff.hpp:76: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:80: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:85: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:90: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:102: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:107: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:139: error: ‘GLfloat’ does not name a type
+mathstuff.hpp:172: error: variable or field ‘closest_point’ declared void
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘x4’ was not declared in this scope
+mathstuff.hpp:172: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:172: error: ‘y4’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:181: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:182: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:183: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:184: error: initializer expression list treated as compound expression
+mathstuff.hpp:185: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:219: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:220: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:221: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:222: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘X’ was not declared in this scope
+mathstuff.hpp:223: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:223: error: ‘Y’ was not declared in this scope
+mathstuff.hpp:223: error: initializer expression list treated as compound expression
+mathstuff.hpp:224: error: expected ‘,’ or ‘;’ before ‘{’ token
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: ‘GLfloat’ was not declared in this scope
+mathstuff.hpp:263: error: initializer expression list treated as compound expression
+mathstuff.hpp:264: error: expected ‘,’ or ‘;’ before ‘{’ token
+readwrite.hpp:1:33: error: boost/multi_array.hpp: No such file or directory
+readwrite.hpp:2:30: error: boost/tokenizer.hpp: No such file or directory
+readwrite.hpp:3:43: error: boost/archive/text_oarchive.hpp: No such file or directory
+readwrite.hpp:4:43: error: boost/archive/text_iarchive.hpp: No such file or directory
+readwrite.hpp:5:42: error: boost/serialization/vector.hpp: No such file or directory
+readwrite.hpp:9: error: ‘boost’ is not a namespace-name
+readwrite.hpp:9: error: expected namespace-name before ‘;’ token
+readwrite.hpp:16: error: ‘LevelState’ has not been declared
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, int&, unsigned int)’:
+readwrite.hpp:19: error: request for member ‘introtext’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp:22: error: request for member ‘playerpos’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp:25: error: request for member ‘levelparams’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp:28: error: request for member ‘colourscheme’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp:33: error: request for member ‘rooms’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp:33: error: ‘DEFAULTROOMCOUNT’ was not declared in this scope
+readwrite.hpp:36: error: request for member ‘rooms’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp:42: error: request for member ‘rooms’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp:46: error: request for member ‘entitydata’ in ‘l’, which is of non-class type ‘int’
+readwrite.hpp: At global scope:
+readwrite.hpp:52: error: ‘PlayerPos’ has not been declared
+readwrite.hpp:52: error: redefinition of ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’
+readwrite.hpp:16: error: ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’ previously declared here
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, int&, unsigned int)’:
+readwrite.hpp:54: error: request for member ‘x’ in ‘pp’, which is of non-class type ‘int’
+readwrite.hpp:55: error: request for member ‘y’ in ‘pp’, which is of non-class type ‘int’
+readwrite.hpp:56: error: request for member ‘dir’ in ‘pp’, which is of non-class type ‘int’
+readwrite.hpp:57: error: request for member ‘room’ in ‘pp’, which is of non-class type ‘int’
+readwrite.hpp:58: error: request for member ‘par’ in ‘pp’, which is of non-class type ‘int’
+readwrite.hpp:59: error: request for member ‘scale’ in ‘pp’, which is of non-class type ‘int’
+readwrite.hpp: At global scope:
+readwrite.hpp:63: error: ‘LevelParams’ has not been declared
+readwrite.hpp:63: error: redefinition of ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’
+readwrite.hpp:16: error: ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’ previously declared here
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, int&, unsigned int)’:
+readwrite.hpp:65: error: request for member ‘exploreon’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:66: error: request for member ‘roomstoexplore’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:67: error: request for member ‘paritymatters’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:68: error: request for member ‘scalematters’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:69: error: request for member ‘enterroom’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:70: error: request for member ‘goalroom’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:71: error: request for member ‘goalroomscale’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:72: error: request for member ‘goalroomparity’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:73: error: request for member ‘mirrorexit’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:74: error: request for member ‘timeron’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:75: error: request for member ‘timer’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:83: error: request for member ‘music’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp:87: error: request for member ‘music’ in ‘lp’, which is of non-class type ‘int’
+readwrite.hpp: At global scope:
+readwrite.hpp:93: error: ‘EntityData’ has not been declared
+readwrite.hpp:93: error: redefinition of ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’
+readwrite.hpp:16: error: ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’ previously declared here
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, int&, unsigned int)’:
+readwrite.hpp:100: error: request for member ‘curEntityPositions’ in ‘ed’, which is of non-class type ‘int’
+readwrite.hpp:101: error: request for member ‘curEntityPositions’ in ‘ed’, which is of non-class type ‘int’
+readwrite.hpp:101: error: ‘DEFAULTROOMCOUNT’ was not declared in this scope
+readwrite.hpp:104: error: request for member ‘curEntityPositions’ in ‘ed’, which is of non-class type ‘int’
+readwrite.hpp:110: error: request for member ‘curEntityPositions’ in ‘ed’, which is of non-class type ‘int’
+readwrite.hpp: At global scope:
+readwrite.hpp:116: error: ‘Entity’ has not been declared
+readwrite.hpp:116: error: redefinition of ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’
+readwrite.hpp:16: error: ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’ previously declared here
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, int&, unsigned int)’:
+readwrite.hpp:118: error: request for member ‘type’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp:119: error: request for member ‘dat’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp:120: error: request for member ‘x’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp:121: error: request for member ‘y’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp:122: error: request for member ‘x2’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp:123: error: request for member ‘y2’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp:124: error: request for member ‘x3’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp:125: error: request for member ‘y3’ in ‘ent’, which is of non-class type ‘int’
+readwrite.hpp: At global scope:
+readwrite.hpp:129: error: ‘Room’ has not been declared
+readwrite.hpp:129: error: redefinition of ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’
+readwrite.hpp:16: error: ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’ previously declared here
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, int&, unsigned int)’:
+readwrite.hpp:131: error: request for member ‘shape’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:137: error: request for member ‘portal’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:138: error: request for member ‘portalparity’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:139: error: request for member ‘portaltoroom’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:140: error: request for member ‘portaltoedge’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:141: error: request for member ‘localportal’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:143: error: ‘SHAPESIZE’ was not declared in this scope
+readwrite.hpp:145: error: request for member ‘portal’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:146: error: request for member ‘portalparity’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:147: error: request for member ‘portaltoroom’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:148: error: request for member ‘portaltoedge’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:149: error: request for member ‘localportal’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:155: error: ‘SHAPESIZE’ was not declared in this scope
+readwrite.hpp:157: error: request for member ‘portal’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:158: error: request for member ‘portalparity’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:159: error: request for member ‘portaltoroom’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:160: error: request for member ‘portaltoedge’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp:161: error: request for member ‘localportal’ in ‘r’, which is of non-class type ‘int’
+readwrite.hpp: At global scope:
+readwrite.hpp:167: error: ‘ColourScheme’ has not been declared
+readwrite.hpp:167: error: redefinition of ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’
+readwrite.hpp:16: error: ‘template<class Archive> void boost::serialization::serialize(Archive&, int&, unsigned int)’ previously declared here
+readwrite.hpp: In function ‘void boost::serialization::serialize(Archive&, int&, unsigned int)’:
+readwrite.hpp:172: error: request for member ‘outline’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:173: error: request for member ‘oddroomunvisited’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:174: error: request for member ‘evenroomunvisited’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:175: error: request for member ‘oddroomvisited’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:176: error: request for member ‘evenroomvisited’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:177: error: request for member ‘background’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:180: error: request for member ‘edgetransparency’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:181: error: request for member ‘roomtransparency’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:182: error: request for member ‘entitytransparency’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp:183: error: request for member ‘noplayerdup’ in ‘cs’, which is of non-class type ‘int’
+readwrite.hpp: At global scope:
+readwrite.hpp:192: error: expected constructor, destructor, or type conversion before ‘(’ token
+roomshapes.hpp:57: error: ‘GLfloat’ does not name a type
+savegame.hpp:2:40: error: boost/filesystem/fstream.hpp: No such file or directory
+savegame.hpp:4:45: error: boost/archive/binary_oarchive.hpp: No such file or directory
+savegame.hpp:5:45: error: boost/archive/binary_iarchive.hpp: No such file or directory
+savegame.hpp:7: error: ‘boost’ has not been declared
+savegame.hpp:7: error: ‘filesystem’ is not a namespace-name
+savegame.hpp:7: error: expected namespace-name before ‘;’ token
+savegame.hpp:8: error: ‘boost’ is not a namespace-name
+savegame.hpp:8: error: expected namespace-name before ‘;’ token
+savegame.hpp: In function ‘void loadsavedata()’:
+savegame.hpp:73: error: ‘bf’ has not been declared
+savegame.hpp:73: error: expected ‘;’ before ‘p’
+savegame.hpp:74: error: ‘bf’ has not been declared
+savegame.hpp:74: error: ‘p’ was not declared in this scope
+savegame.hpp:76: error: ‘bf’ has not been declared
+savegame.hpp:76: error: expected ‘;’ before ‘ifs’
+savegame.hpp:77: error: ‘boost::archive’ has not been declared
+savegame.hpp:77: error: expected ‘;’ before ‘ia’
+savegame.hpp:79: error: ‘ia’ was not declared in this scope
+savegame.hpp:80: error: ‘ifs’ was not declared in this scope
+savegame.hpp: In function ‘void savesavedata()’:
+savegame.hpp:88: error: ‘bf’ has not been declared
+savegame.hpp:88: error: expected ‘;’ before ‘p’
+savegame.hpp:90: error: ‘bf’ has not been declared
+savegame.hpp:90: error: expected ‘;’ before ‘ofs’
+savegame.hpp:92: error: ‘boost::archive’ has not been declared
+savegame.hpp:92: error: expected ‘;’ before ‘oa’
+savegame.hpp:93: error: ‘oa’ was not declared in this scope
+savegame.hpp:95: error: ‘ofs’ was not declared in this scope
+shapes.hpp:10: error: ‘GLfloat’ does not name a type
+shapes.hpp:11: error: ‘GLfloat’ does not name a type
+shapes.hpp:16: error: ‘GLfloat’ does not name a type
+shapes.hpp:120: error: ‘GLfloat’ does not name a type
+shapes.hpp:167: error: ‘GLfloat’ does not name a type
+shapes.hpp:221: error: ‘GLfloat’ does not name a type
+shapes.hpp:283: error: ‘GLfloat’ does not name a type
+timer.hpp: In member function ‘void Timer::start()’:
+timer.hpp:53: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘void Timer::pause()’:
+timer.hpp:77: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘void Timer::unpause()’:
+timer.hpp:91: error: ‘SDL_GetTicks’ was not declared in this scope
+timer.hpp: In member function ‘int Timer::get_ticks()’:
+timer.hpp:113: error: ‘SDL_GetTicks’ was not declared in this scope

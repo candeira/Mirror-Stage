@@ -1,0 +1,144 @@
+TODO LIST:
+
+//SAAAVE AS MENU
+//
+//TO FIX
+//TODO: XP64 COMPATIBILITY (aka dynamically link to openGL)
+
+//todo: problem with chapter list : "THE HEIST" keeps on appearing ... :S//TODO: if there is a completeable episode that you can't see, you might want to indicated it by a pale box or something near the bottom
+
+//DOCUMENTATION TODOS
+//
+
+//FIXED THINGS
+//todo: change starting position in the snowflake level (currently can't die)
+//todo: see about making 5-2 easier...
+//todo: add larger/smaller/equal toggle for room target
+//todo: make transparency toggleable on a portal-by-portal basis?
+//todo: made text big again
+//todo: prompt before deleting
+//todo: in editor, display episode number on top right
+//todo: add 'stop entities from moving' mode to editor (bind to m)
+//todo: have time display actually be in seconds in editor
+//TODO: talbe should be table
+//TODO: maybe don't draw the buffer if quit/wantquit is true?
+//TODO: add husband entity type (maybe angry noisy red square in one view?//so isn't this already here then?)
+//TODO: add husband-at-altar entity type
+//TODO: transitions/fades after death and before interludes
+//TODO: red wall in entrance to church...fix...
+//todo :saving over files doesn't seem to work?
+//todo: what happens when you press escp at the save-as menu? (goes to game)
+//TODO: saveas via. 'create new chapter' doesn't work :/
+//TODO: after save-asing to a new chapter sometimes save-asing to a new slot-somewhere doesn't seem to work::??  (related to ignorespace?)
+//TODO: allow '[' and ']' to control main menu navigation as well
+//TODO: blank entity data when you create a new room (more or less done)
+//TODO: when someone edits a map, go straight to edit-mode (skipping the interlude I guess)
+//TODO: allow for resolution changes (from file (lua?), WITH ASPECT RATIO CHANGES: see below)
+//TODO: fade when exit level
+//TODO: make default addportal parity even
+//TODO: make par bool
+//TODO: when you delete a level, have LHS have top whatever selected by default (or -1, if there's nothing there).  Or, at the very least, clear the string on the RHS
+//TODO: the screen flickers before going to the interlude?
+//TODO: when you leave the editor, prompt to save (ish; escape route is through file screen)
+//TODO: when someone goes to edit a map, reset menu selection things...
+//TODO: when use 1/2 to change levels, modify curselected as well
+//TODO: pressing left on the menus stops the music sometimes :/
+//TODO: remove editable property from levelparams
+//TODO: use getglparams to cap realdepth (or whichever)
+//todo: add apostrophe character >_<
+//todo: remove the nub from the table grey room
+//todo: fixed screenfade (buffering issue)
+//todo: crossfades
+//todo: don't fade out when you go back to the main menu from a level
+//todo: double check that left/right cursors work on menus everywhere
+//todo: think I fixed the bug with loading blank levels (by adding the force option to the resize function) (I've wrapped it anyway...)
+//todo: fix mirror condition: mirror must be from same side to itself, not just from same room
+//todo: don't load a new track for text only levels.
+//todo: add volume decrease totggle
+//todo: fixed player colour bug when useing color3fv
+//todo: added new features to parity entity
+//TODO: load/save game data
+//TODO: if people pres enter on a chapter name, they start from the beginning, if space/right, they get to select an episode
+//todo: fixed typos
+//TODO: in 'new game' screen, to incorporate save data into display, somehow....(maybe don't display background rects, make font dimmer, if level not completed).
+//todo: fixed fade showing final claim
+//todo: add mirror-hall level where none of the portals cannot be seen through, and you have to think about what leads where
+//todo: add two glory-holl shapes
+//todo: add more regular polygons...
+//todo: fixed colouring bug of chapter display boxes on custom episode select screen
+//todo: add sound-effects to the editor interface (Especially the 'load/save/whathaveyou' things)
+//todo: edge outline colour not showng on colour chart?
+//todo: look at documentation
+//todo: do out chart of all music tracks used so far
+//todo: make space/enter do interesting things on all of the menus
+//todo: revisit player/wall collision
+//todo: by default, have orientation and scale not matter to room visiting criterion
+//todo: fix wall problem (pretty sure that was the problem with the funky trapesium)
+//todo: when selecting wals, have direection depend on parity (or rather, be adjusted so as to not depend on it...)
+//todo: when you finish a level in edit mode, restart, do not move on!
+//todo: think the 'does scale/orientation' options are reversed in the editor, for explore mode anyway...
+//todo: when you go left to the main menu, be sure to set currently-selected menu-item
+//todo: don't finish levels when in editor mode; reset!
+//todo: fix track six...(record new one...it's currently just a copy)
+//todo: fix clipping trouble with that track
+//REMOVE EDITOR OPTIONS FROM 'custom game' section, only have in editor section
+//todo: fade out when you press quit, after playing the sound...also, maybe don't play high pitch sound
+//todo: fade out when quit, to stop clicking
+//todo: add back in scales for terry!
+//todo: do for 'room visit' mode what I did for explore mode re: manually swapping level
+//todo: have return work on editor menus
+//todo: rotate player a little on the flower level (and make sure rotation is in tunnel level)
+
+
+//Meh ((possibly temporarily) abandoned todos)
+//todo: add confirmation when saving over existing levels
+//TODO: fix the collision code, then can reintroduce sliding...
+//todo: have backspace auto-delete at the prelude
+//TODO: display GAME MAP/CUSTOM MAP on top of said selection screen
+//TODO: maybe be able to delete custom chapters w/ backspace+press y during dialog (awful idea with preview)
+//TODO: get 'save as' dialog to point at current level (for instance, say you go to the save-as menu and exit without saving, having selected something else)
+//TODO: music toggle button >_<
+//TODO: fix up case statements for entity stuff
+//TODO: separate decoration code from entitity stuff
+//TODO: add some new 'decoration' class, which can display lots of different entities, as well as having a scale parameter
+//TODO: investigate crash on terry's laptop for stage 6-1
+//todo: have roomshape index list
+//todo: video memory leak (buildoutlines threw, could be due to anything though...maybe opengl will help) - or maybe just with allocation?...have a feeling it's related to ROOMCOUNT...  (I think I might have fixed this, but I'm not sure...)
+//todo: coutt the HELL out of the initlevel command, to trace that random crash.
+//todo: add more trapesiums, also right-angled triangles of various sorts.
+//todo: a way of pausing enemies
+//todo: sneak in a keybinding to allow people to change the colour of the main player (at least brightness)
+//todo: when you delete an episode, you should have the chapter and previous episode (max(episode-1,0)) selected on the screen.
+//todo: have 'save as' menu have current level selected by default
+//todo: add sound on completing/failing level
+//todo: fixed parity dude bug ::)
+//todo: made girder parity guy invisible
+
+//POSSIBLY FIXEd
+//todo: when you SAVE AS, chapter count isn't updated?
+//todo: left pain of editor list still sometimes omits items  (when list is shorter than max display height) :/
+
+
+//DISCARDED THINGS
+
+//TODO: maybe add an underlay of rotating hexagons (purple? or greyscale?) on the title screen?  can turn off alpha stuff for that...
+//TODO: if you try open/play a non-editable file...actually...is it worth it at all?  :/
+//TODO: decrease roomcount when rooms are deleted (or, at lesat before it's saved)
+//TODO: try having draw stuff relate to area? (or is alpha blend bottleneck better than any other sort?
+//TODO: add special resizing shape?
+//TODO: have tab change between 'new chapter' and 'select existing chapter' in edit screen
+//TODO: when not accessing 'save as' menu (maybe whenever using esc to access menu), load menu music
+//TODO: have music stop when you get to the main screen
+//TODO: consider changing keyups on menu
+//TODO: in-game resolution changes
+//TODO: rooms seems like it should be replacable with rooms in almost all instances? (I think one of these is curroom, and so I think I dealt with it)
+//TODO: add fixed-camera option  (added...didn't like...removed)
+//TODO: hide background option (only needed for the above, really)
+//todo: don't fade into levels when in editor mode!
+//TODO: could make screen_width/screen_height local variables? (nope actually...need to use them in text display functions?)
+//TODO: add room-shape names
+//TODO: add gauntlet level
+//todo: detail adjustment keys
+//todo: get return to work as an alternative to enter on the menu screens (I probably meant space here, in which case it's done)
+//todo: going down from the bottom of the edit chapter select menu should select 'new chapter', I think
+

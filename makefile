@@ -9,7 +9,7 @@ SOURCES = $(shell find . -name "*.cpp")
 
 OBJS = $(SOURCES:.cpp=.o)
 
-MUST_CFLAGS = -I. `pkg-config lua5.1 gl sdl --cflags`
+MUST_CFLAGS = -I. `pkg-config lua5.1 gl sdl --cflags` -D USE_GETTEXT
 CFLAGS = -O2 -g -Wall
 
 LDFLAGS=

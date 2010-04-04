@@ -4,6 +4,14 @@
     linux port copyright Miriam Ruiz y Javier Candeira 2010
 */
 
+#ifdef USE_GETTEXT
+#include "libintl.h"
+#include "locale.h"
+#define _(String) gettext (String)
+#else
+#define _(String) (String)
+#endif
+
 #include <stdio.h>
 #include <string>
 #include <sstream>
@@ -2033,7 +2041,7 @@ bool draw_intro()
     glTranslatef(-0.7, 0.05, 0);
     glScalef(1.5, 1.5, 1.5);
     glColor4f(1, 1, 1, min(u, v));
-    print_straight_text("increpare presents");
+    print_straight_text (_("increpare presents"));
     glTranslatef(0, -0.15, 0);
 
     SDL_GL_SwapBuffers();
@@ -2065,7 +2073,7 @@ bool draw_finishchapter()
     glScalef(1.5, 1.5, 1.5);
 //	glColor3f(0.5-sin(2*t+1)/2,0.5-sin(t)/2,0.5-sin(t/2+1)/2);
     glColor4f(1, 1, 1, 1);
-    print_straight_text("chapter over");
+    print_straight_text(_("chapter over"));
     glTranslatef(0, -0.15, 0);
 
 
@@ -2101,7 +2109,7 @@ void draw_editmodenochapter()
         glColor4f(1, 1, 1, titletick);
 
 
-        print_straight_text("enter name");
+        print_straight_text(_("enter name"));
         glTranslatef(0, -0.15, 0);
 
         glColor3f(0.3, 0.3, 0.3);
@@ -2137,7 +2145,7 @@ void draw_editmodenochapter()
             glTranslatef(0.4, 0.7, 0);
             glColor3f(0.5, 0.5, 0.5);
 
-            print_straight_text("enter name");
+            print_straight_text (_("enter name"));
 
             glPopMatrix();
 
@@ -2165,7 +2173,7 @@ void draw_editmodenochapter()
         }
 
 
-        print_straight_text("new chapter");
+        print_straight_text(_("new chapter"));
 
 
         glPushMatrix();
@@ -2175,7 +2183,7 @@ void draw_editmodenochapter()
         glColor3f(1, 1, 1);
 
 
-        print_straight_text("--new--");
+        print_straight_text(_("--new--"));
 
         glPopMatrix();
 
@@ -2310,13 +2318,13 @@ void draw_editmode(bool resetright, bool resetleftbounds)
         if (curtitleselection2 >= 0)
         {
             if (saveasmode)
-                print_straight_text("save episode as");
+                print_straight_text(_("save episode as"));
             else
-                print_straight_text("select episode");
+                print_straight_text(_("select episode"));
         }
         else
         {
-            print_straight_text("enter name");
+            print_straight_text(_("enter name"));
             glTranslatef(0, -0.15, 0);
 
             glColor3f(0.3, 0.3, 0.3);
@@ -2380,7 +2388,7 @@ void draw_editmode(bool resetright, bool resetleftbounds)
 
                     glColor3f(1.0f, 1.0f, 1.0f);
 
-                    print_straight_text("insert new");
+                    print_straight_text(_("insert new"));
 
                     glPopMatrix();
                     glTranslatef(0.0f, -0.15f, 0.0f);
@@ -2403,7 +2411,7 @@ void draw_editmode(bool resetright, bool resetleftbounds)
                     glColor3f(0.5f, 0.5f, 0.5f);
 
                 //13 CHARACTER LIMIT ON CHAPTER NAMES
-                print_straight_text("episode " + stringify(i));
+                print_straight_text( _("episode ") + stringify(i));
 
                 if (i == curtitleselection3 && afterselection3)
                 {
@@ -2424,7 +2432,7 @@ void draw_editmode(bool resetright, bool resetleftbounds)
 
                     glColor3f(1.0f, 1.0f, 1.0f);
 
-                    print_straight_text("insert new");
+                    print_straight_text(_("insert new"));
 
                     glPopMatrix();
                 }
@@ -2454,12 +2462,12 @@ void draw_editmode(bool resetright, bool resetleftbounds)
             if (curtitleselection2 >= 0)
             {
                 if (saveasmode)
-                    print_straight_text("save episode as");
+                    print_straight_text(_("save episode as"));
                 else
-                    print_straight_text("select episode");
+                    print_straight_text(_("select episode"));
             }
             else
-                print_straight_text("enter name");
+                print_straight_text(_("enter name"));
 
             glPushMatrix();
 
@@ -2482,7 +2490,7 @@ void draw_editmode(bool resetright, bool resetleftbounds)
                     glColor3f(0.5f, 0.5f, 0.5f);
 
                     //13 CHARACTER LIMIT ON CHAPTER NAMES
-                    print_straight_text("episode " + stringify(i));
+                    print_straight_text (_("episode ") + stringify(i));
                 }
             }
 
@@ -2516,9 +2524,9 @@ void draw_editmode(bool resetright, bool resetleftbounds)
             glColor3f(0.5f, 0.5f, 0.5f);
         }
         if (curtitleselection2 >= 0)
-            print_straight_text("edit chapter");
+            print_straight_text(_("edit chapter"));
         else
-            print_straight_text("new chapter");
+            print_straight_text(_("new chapter"));
 
 
         glPushMatrix();
@@ -2530,7 +2538,7 @@ void draw_editmode(bool resetright, bool resetleftbounds)
         else
             glColor3f(0.3, 0.3, 0.3);
 
-        print_straight_text("--new--");
+        print_straight_text(_("--new--"));
 
         //make the 10 a min (chaptercount,10)
         for (int i = currange2_begin; i < currange2_end; i++)
@@ -2714,7 +2722,7 @@ void draw_title()
         glPushMatrix();
         glTranslatef(0.4f, 0.7f, 0.0f);
         glColor4f(1.0f, 1.0f, 1.0f, titletick);
-        print_straight_text("select episode");
+        print_straight_text(_("select episode"));
 
         glPushMatrix();
 
@@ -2751,7 +2759,7 @@ void draw_title()
                 glColor3f(0.5f, 0.5f, 0.5f);
 
             //13 CHARACTER LIMIT ON CHAPTER NAMES
-            print_straight_text("episode " + stringify(i));
+            print_straight_text(_("episode ") + stringify(i));
         }
         glPopMatrix();
 
@@ -2777,7 +2785,7 @@ void draw_title()
             glPushMatrix();
             glTranslatef(0.4f, 0.7f, 0.0f);
             glColor3f(0.5f, 0.5f, 0.5f);
-            print_straight_text("select episode");
+            print_straight_text(_("select episode"));
 
             glPushMatrix();
 
@@ -2816,7 +2824,7 @@ void draw_title()
                         glColor3f(0.5f, 0.5f, 0.5f);
 
                     //13 CHARACTER LIMIT ON CHAPTER NAMES
-                    print_straight_text("episode " + stringify(i));
+                    print_straight_text(_("episode ") + stringify(i));
                 }
             }
             else
@@ -2836,7 +2844,7 @@ void draw_title()
                     glColor3f(0.5f, 0.5f, 0.5f);
 
                     //13 CHARACTER LIMIT ON CHAPTER NAMES
-                    print_straight_text("episode " + stringify(i));
+                    print_straight_text(_("episode ") + stringify(i));
                 }
             }
 
@@ -2869,7 +2877,7 @@ void draw_title()
         {
             glColor3f(0.5f, 0.5f, 0.5f);
         }
-        print_straight_text("select chapter");
+        print_straight_text(_("select chapter"));
 
 
         glPushMatrix();
@@ -2934,7 +2942,7 @@ void draw_title()
         glTranslatef(-0.85f, 0.05f, 0.0f);
         glScalef(1.5f, 1.5f, 1.5f);
         glColor4f(1.0f, 1.0f, 1.0f, titletick);
-        print_straight_text("mirror stage");
+        print_straight_text(_("mirror stage"));
         glPopMatrix();
 
         if (titletick >= 1)
@@ -2958,17 +2966,17 @@ void draw_title()
             glColor3f(1.0f, 1.0f, 1.0f);
 
             glTranslatef(0.0f, -0.15f, 0.0f);
-            print_straight_text("play");
+            print_straight_text(_("play"));
             glTranslatef(0.0f, -0.15f, 0.0f);
             if (customEpisodeList.size() == 0)
                 glColor3f(0.5f, 0.5f, 0.5f);
-            print_straight_text("custom");
+            print_straight_text(_("custom"));
             if (customEpisodeList.size() == 0)
                 glColor3f(1.0f, 1.0f, 1.0f);
             glTranslatef(0.0f, -0.15f, 0.0f);
-            print_straight_text("editor");
+            print_straight_text(_("editor"));
             glTranslatef(0.0f, -0.15f, 0.0f);
-            print_straight_text("quit");
+            print_straight_text(_("quit"));
         }
         break;
     default:
@@ -2981,6 +2989,15 @@ void draw_title()
 
 int main(int argc, char *argv[])
 {
+    //Localising the text
+    #ifdef USE_GETTEXT
+    setlocale (LC_MESSAGES, "");
+    setlocale (LC_CTYPE, "");
+    setlocale (LC_COLLATE, "");
+    textdomain ("mirrorspace");
+    bindtextdomain ("mirrorspace", NULL);
+    #endif
+
     //The frame rate regulator
     Timer fps;
 

@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-04 10:27+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.cpp:2043
+msgid "increpare presents"
+msgstr ""
+
+#: main.cpp:2075
+msgid "chapter over"
+msgstr ""
+
+#: main.cpp:2111 main.cpp:2147 main.cpp:2326 main.cpp:2469
+msgid "enter name"
+msgstr ""
+
+#: main.cpp:2175 main.cpp:2528
+msgid "new chapter"
+msgstr ""
+
+#: main.cpp:2185 main.cpp:2540
+msgid "--new--"
+msgstr ""
+
+#: main.cpp:2320 main.cpp:2464
+msgid "save episode as"
+msgstr ""
+
+#: main.cpp:2322 main.cpp:2466 main.cpp:2724 main.cpp:2787
+msgid "select episode"
+msgstr ""
+
+#: main.cpp:2390 main.cpp:2434
+msgid "insert new"
+msgstr ""
+
+#: main.cpp:2413 main.cpp:2492 main.cpp:2761 main.cpp:2826 main.cpp:2846
+msgid "episode "
+msgstr ""
+
+#: main.cpp:2526
+msgid "edit chapter"
+msgstr ""
+
+#: main.cpp:2879
+msgid "select chapter"
+msgstr ""
+
+#: main.cpp:2944
+msgid "mirror stage"
+msgstr ""
+
+#: main.cpp:2968
+msgid "play"
+msgstr ""
+
+#: main.cpp:2972
+msgid "custom"
+msgstr ""
+
+#: main.cpp:2976
+msgid "editor"
+msgstr ""
+
+#: main.cpp:2978
+msgid "quit"
+msgstr ""

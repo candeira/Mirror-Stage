@@ -13,7 +13,7 @@ MUST_CFLAGS = -I. `pkg-config lua5.1 gl sdl --cflags` -D USE_GETTEXT
 CFLAGS = -O2 -g -Wall
 
 LDFLAGS=
-LIBS=`pkg-config lua5.1 gl sdl --libs` -lboost_serialization-mt -lboost_system-mt -lboost_filesystem-mt
+LIBS=`pkg-config lua5.1 gl sdl --libs` -lboost_serialization-mt -lboost_system-mt -lboost_filesystem-mt -lSDL_mixer
 
 # Compila el programa principal
 $(PROGRAM): $(OBJS)

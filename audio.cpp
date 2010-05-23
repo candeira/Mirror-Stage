@@ -3,17 +3,51 @@
 
 #ifndef USE_FMOD // USE_SDLMIXER
 
+#include <SDL/SDL.h>
 #include <SDL/SDL_mixer.h>
 #include <climits> // for PATH_MAX
+#include <sstream>
+
+static Mix_Music *music= NULL;
+static bool music_playing = false;
+
+static void music_finished()
+{
+    printf("music_finished()\n");
+    music_playing = false;
+}
 
 void setvolume(float v, bool increase)
 {
-	printf("setvolume(v=%f,increase=%d)\n", v, (int)increase);
+    printf("setvolume(v=%f,increase=%d)\n", v, (int)increase);
 }
 
 void loadtrack(int l)
 {
     printf("loadtrack(l=%d)\n", l);
+    glClear (GL_COLOR_BUFFER_BIT);
+    SDL_GL_SwapBuffers();
+
+    if (music)
+    {
+        Mix_FreeMusic(music);
+        music = NULL;
+    }
+
+    std::stringstream path;
+    path << "ogg/" << l << ".ogg";
+
+    music = Mix_LoadMUS(path.str().c_str());
+    if(music == NULL) 
+    {
+        printf("Unable to load Ogg file: %s\n", Mix_GetError());
+        return;
+    }
+    if(Mix_PlayMusic(music, 0) == -1) 
+    {
+        printf("Unable to play Ogg file: %s\n", Mix_GetError());
+        return;
+    }
 }
 
 void playsound(int i)
@@ -24,11 +58,30 @@ void playsound(int i)
 void initsound()
 {
     printf("initsound()\n");
+    int audio_rate = 22050; // Playback frequency to be used by SDL_mixer
+    Uint16 audio_format = AUDIO_S16SYS; // AUDIO_S16SYS will automatically match the user's system's byte order
+    int audio_channels = 2; // 2 for stereo sound, and 1 for monaural
+    int audio_buffers = 4096; // Size of the memory chunks used for storage and playback of samples
+
+    if(Mix_OpenAudio(audio_rate, audio_format, audio_channels, audio_buffers) != 0) {
+        fprintf(stderr, "Unable to initialize audio: %s\n", Mix_GetError());
+        exit(-1);
+    }
+
+    Mix_HookMusicFinished(music_finished);
+    loadtrack(0);
 }
 
 void releasesound()
 {
-    printf("initsound()\n");
+    printf("releasesound()\n");
+    Mix_HaltMusic();
+    if (music)
+    {
+        Mix_FreeMusic(music);
+        music = NULL;
+    }
+    Mix_CloseAudio();
 }
 
 #else // USE_FMOD

@@ -1,7 +1,7 @@
 #include <boost/filesystem/fstream.hpp>
 #include <vector>
-#include <boost/archive/binary_oarchive.hpp>
-#include <boost/archive/binary_iarchive.hpp>
+#include <boost/archive/text_oarchive.hpp>
+#include <boost/archive/text_iarchive.hpp>
 
 namespace bf = boost::filesystem;
 using namespace boost;
@@ -69,11 +69,11 @@ void loadsavedata()
             savedata.completed[i][j]=false;
         }
 
-    bf::path p("settings/savedata.bin");
+    bf::path p("settings/savedata.txt");
     if (bf::exists(p))
     {
-        bf::ifstream ifs(p,ios::in|ios::binary);
-        boost::archive::binary_iarchive ia(ifs);
+        bf::ifstream ifs(p,ios::in);
+        boost::archive::text_iarchive ia(ifs);
         // read class state from archive
         ia >> savedata;
         ifs.close();
@@ -84,11 +84,11 @@ void loadsavedata()
 
 void savesavedata()
 {
-        bf::path p("settings/savedata.bin");
+        bf::path p("settings/savedata.txt");
 
-    bf::ofstream ofs(p, ios::out|ios::binary);
+    bf::ofstream ofs(p, ios::out);
 	{
-		boost::archive::binary_oarchive oa(ofs);
+		boost::archive::text_oarchive oa(ofs);
 		oa << savedata;
 	}
 	ofs.close();

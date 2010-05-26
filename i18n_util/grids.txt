@@ -1,0 +1,1142 @@
+#: chapters/chapter 1 episode 0.dat
+
+please_wait;____
+________________
+someone_will____
+be_with_you_____
+shortly.________
+
+#: chapters/chapter 1 episode 1.dat
+
+the_doctor_will_
+see_you_now.____
+________________
+please_make_your
+way_to_the_end__
+of_the_corridor.
+
+#: chapters/chapter 1 episode 2.dat
+
+please,_________
+make_yourself___
+comfortable;____
+________________
+have_a_look_____
+around._________
+
+#: chapters/chapter 1 episode 3.dat
+
+have_you_looked_
+at_yourself_in__
+the_mirror______
+recently?_______
+
+#: chapters/chapter 1 episode 4.dat
+
+not_all_________
+reflections_are_
+false.__________
+________________
+but_only_false__
+reflections_are_
+real.___________
+________________
+do_you_remember?
+
+#: chapters/chapter 1 episode 5.dat
+
+in_the_face_of__
+uncertain_truth_
+you_desire______
+annihilation____
+
+#: chapters/chapter 1 episode 6.dat
+
+there_are_pills_
+that_can_help___
+you_forget._____
+________________
+they_will_make__
+you_feel_without
+reason._________
+
+#: chapters/chapter 1 episode 7.dat
+
+what_will_it____
+take_for_you_to_
+recognise_______
+yourself?_______
+
+#: chapters/chapter 1 episode 8.dat
+
+the_session_is__
+over,_unless____
+there_is________
+something_else__
+you_have_to_say?
+
+#: chapters/chapter 2 episode 0.dat
+
+there_he_is,____
+across_the_room.
+________________
+he_is_very______
+handsome._______
+________________
+maybe_i_should__
+talk_to_him...__
+
+#: chapters/chapter 2 episode 1.dat
+
+he_is_coming_for
+dinner_soon,____
+________________
+but_the_table_is
+set_all_wrong!__
+
+#: chapters/chapter 2 episode 2.dat
+
+i_browse_through
+the_flower_shop,
+searching_for_a_
+worthy_bloom____
+present_him.____
+
+#: chapters/chapter 2 episode 3.dat
+
+the_groom_must__
+be_on_the_left,_
+but_he_is_on_the
+left_already.___
+________________
+where_am_i,_the_
+other_groom,_to_
+go?_____________
+
+#: chapters/chapter 2 episode 4.dat
+
+my_husband,_____
+he_is_lying_on__
+my_side_of_the__
+bed.____________
+________________
+he_sleeps_so____
+softly_-_i_would
+not_wake_him,___
+yet_i_am_so_____
+tired...
+
+#: chapters/chapter 2 episode 5.dat
+
+sometimes_he_got
+angry_-_________
+________________
+but_he_would____
+usually_calm____
+down_if_i_left__
+him_be.
+
+#: chapters/chapter 2 episode 6.dat
+
+it_wasn't_all___
+bad;____________
+________________
+he_had_his_good_
+side.
+
+#: chapters/chapter 2 episode 7.dat
+
+since_he_died___
+the_world_has___
+been_to_me______
+as_a_rose_______
+
+#: chapters/chapter 2 episode 8.dat
+
+we_overcame_____
+inequality_and__
+social_bigotry__
+with_love_and___
+symmetry-_______
+breaking________
+
+#: chapters/chapter 3 episode 0.dat
+
+this_is_the_____
+beginning_of_a__
+litany._________
+________________
+it_could_also___
+be_an_admission_
+of_defeat.______
+________________
+it_could_also_be
+a_heartfelt_____
+apology.
+
+#: chapters/chapter 3 episode 1.dat
+
+you_must________
+sometimes_try___
+be_aware_of_your
+own_behaviour.
+
+#: chapters/chapter 3 episode 10.dat
+
+sometimes,_both_
+orientation_and_
+scale_matter.
+
+#: chapters/chapter 3 episode 11.dat
+
+sometimes_you___
+can_only_infer__
+orientation_____
+by_paying_______
+attention_to____
+your_behaviour.
+
+#: chapters/chapter 3 episode 12.dat
+
+another_recap
+
+#: chapters/chapter 3 episode 13.dat
+
+things_that_move
+are_generally_to
+be_avoided,_with
+one_exception.
+
+#: chapters/chapter 3 episode 14.dat
+
+a_recap
+
+#: chapters/chapter 3 episode 15.dat
+
+do_not_be_______
+confused_if_the_
+colours_are_____
+different;_it_is
+but_the_change__
+that_matters.
+
+#: chapters/chapter 3 episode 16.dat
+
+that_is_not_____
+everything.__in_
+a_way,_it_is_not
+anything._i_hope
+that_it_will_not
+destroy_your____
+comprehension_of
+my_efforts._____
+________________
+mea_culpa,______
+_____increpare
+
+#: chapters/chapter 3 episode 2.dat
+
+spaces_are______
+sometimes_put___
+to_be_explored._
+________________
+look_at_your____
+effect_on_and___
+behaviour_in_the
+world_as_you____
+experience_it.
+
+#: chapters/chapter 3 episode 3.dat
+
+some_things_are_
+harder_to_______
+explain;_i_can__
+but_hope_that___
+the_miniature___
+exercise_in_____
+ehaustion_that__
+is_this_chapter_
+will_go_some_way
+to_explaining___
+things.
+
+#: chapters/chapter 3 episode 4.dat
+
+orientation_____
+sometimes_does__
+not_matter.
+
+#: chapters/chapter 3 episode 5.dat
+
+and,_sometimes__
+it_does_matter.
+
+#: chapters/chapter 3 episode 6.dat
+
+sometimes,_you__
+will_be_able_to_
+infer_your_own__
+presence,_though
+it_be_concealed.
+________________
+this_can_be_____
+viewed_in_a_____
+different_light.
+
+#: chapters/chapter 3 episode 7.dat
+
+a_recap
+
+#: chapters/chapter 3 episode 8.dat
+
+sometimes_scale_
+does_not_matter.
+
+#: chapters/chapter 3 episode 9.dat
+
+and_sometimes_it
+does_matter.
+
+#: chapters/chapter 4 episode 0.dat
+
+you_awake_to____
+find_yourself___
+lying_by_the____
+lake,_amongst___
+the_bullrushes._
+________________
+this_was_where__
+you_grew_up,_and
+yet_it_is_so____
+unfamiliar_now.
+
+#: chapters/chapter 4 episode 1.dat
+
+i_lived_in_a____
+small_house,____
+back_then,_with_
+a_garden_in_the_
+back.___________
+________________
+eventually,_i___
+had_to_move_on,_
+to_take_the_____
+perilous_trip_to
+the_city.
+
+#: chapters/chapter 4 episode 2.dat
+
+facing_the_gate,
+i_saw_the_city,_
+________________
+it_was_fortified
+_-_wrapped_up___
+inside_itself.
+
+#: chapters/chapter 4 episode 3.dat
+
+the_hive,_______
+the_locus_of____
+activity._______
+________________
+could_i_possibly
+find_a_place_for
+myself,_here?
+
+#: chapters/chapter 4 episode 4.dat
+
+from_its_base,__
+the_tower_looked
+so_tall_-_i_felt
+urge'd_to_______
+experience_its__
+full_extent.
+
+#: chapters/chapter 4 episode 5.dat
+
+i_teetered_about
+from_that_______
+height_-_i_saw__
+a_girder________
+stretching_out,_
+and_longed_to___
+cross_it.
+
+#: chapters/chapter 4 episode 6.dat
+
+the_city_blocks_
+they_stretch____
+and_writhe._____
+________________
+and_in_the_sky,_
+there_be_a______
+finite_city,____
+from_which_all__
+roads_come_and__
+leave._my_love,_
+he_be_there.
+
+#: chapters/chapter 4 episode 7.dat
+
+this_church_is__
+no_place_for_me_
+now.____________
+________________
+i_will_find_my__
+peace_in_a______
+toilet_cubicle__
+of_the_bar_down_
+the_street_from_
+here.
+
+#: chapters/chapter 4 episode 8.dat
+
+and,i_think_i___
+did_experience__
+some_then,_some_
+satisfaction.___
+________________
+
+#: chapters/chapter 5 episode 0.dat
+
+i_started,_in___
+the_air,_and_in_
+the_lightness,__
+to_stretch_out__
+my_hands._______
+________________
+they_felt_the___
+chill_of_the____
+frost.
+
+#: chapters/chapter 5 episode 1.dat
+
+the_snow_began__
+to_fall,_then.__
+________________
+i_watched_a_____
+snowflake_droop_
+and_melt_as_it__
+landed_on_my____
+finger.
+
+#: chapters/chapter 5 episode 2.dat
+
+and,_through_the
+freezing_air_i__
+plummeted.______
+________________
+down_below,_i___
+hoped,_in_vain,_
+for_the_orange__
+warmth_of_______
+childhood.
+
+#: chapters/chapter 5 episode 3.dat
+
+the_cold_yet____
+still_persisted,
+but_i_had_to____
+wait_outside_yet
+a_while_longer_-
+________________
+all_alone,_i_had
+to_make_a_______
+diversion_of____
+myself_to_abide_
+the_chill.
+
+#: chapters/chapter 5 episode 4.dat
+
+as_dusk_________
+approached,_on__
+that_snowy_day,_
+i_looked_to_the_
+horizon.
+
+#: chapters/chapter 5 episode 5.dat
+
+and,_looking_up,
+i_saw_the_sky,_a
+dull_mass_of____
+faded_stars.____
+________________
+but_how_________
+beautiful_they__
+were!
+
+#: chapters/chapter 5 episode 6.dat
+
+and_when_i_sat__
+down,_the_next__
+morning,_after__
+i_had_gotten_in,
+my_mind_recalled
+the_cold_still__
+outside,_and..._
+________________
+...and_i_hung_my
+head_down_in____
+shame...
+
+#: chapters/chapter 6 episode 0.dat
+
+my_head_is______
+aching...where__
+am_i?___________
+________________
+where_are_my____
+children?_______
+__
+
+#: chapters/chapter 6 episode 1.dat
+
+i_found_myself__
+in_a_great______
+complex,_with___
+doors_all_about.
+________________
+the_exit_is_in__
+a_smaller_room._
+________________
+i_must_escape,__
+and_go_home_to__
+my_family.
+
+#: chapters/chapter 6 episode 2.dat
+
+i_am_in_the_____
+main_corridor___
+now.__the_way___
+out_is_in_a_____
+smaller_sector._
+________________
+my_heart_is_____
+breaking.
+
+#: chapters/chapter 6 episode 3.dat
+
+i_staggered_____
+along_the_beach.
+________________
+how_long_have_my
+daughters_been__
+without_a_______
+father?_________
+________________
+i_saw_a_boat_at_
+the_distant_end_
+of_the_beach.
+
+#: chapters/chapter 6 episode 4.dat
+
+i_then_began_the
+achingly_long___
+journey_from_the
+coast_to_my_home
+island._________
+_________
+
+#: chapters/chapter 6 episode 5.dat
+
+arriving_home,__
+i_embraced_my___
+daughters,_and__
+later_i_cried_by
+my_wife's_______
+graveside.
+
+#: chapters/chapter 7 episode 0.dat
+
+the_doily
+
+#: chapters/chapter 7 episode 1.dat
+
+my_grandmother's
+stockings.
+
+#: chapters/chapter 7 episode 2.dat
+
+the_hydrangea___
+flower.
+
+#: chapters/chapter 7 episode 3.dat
+
+the_area_around_
+the_tree_was____
+blanketed_with__
+petals._________
+________________
+i_sifted_through
+them_to_see_if_i
+could_find_the__
+smallest.
+
+#: chapters/chapter 7 episode 4.dat
+
+the_wicker_mat.
+
+#: chapters/chapter 7 episode 5.dat
+
+lights_out_time!
+
+#: chapters/chapter 7 episode 6.dat
+
+the_three_clocks
+down_the_hall,__
+when_i_was______
+trying_to_sleep.
+
+#: chapters/chapter 7 episode 7.dat
+
+my_aunt's_______
+sweet_shop.
+
+#: chapters/chapter 7 episode 8.dat
+
+thank_you_for___
+playing_through_
+this_game.______
+________________
+i_hope_that...__
+________________
+...that_you_got_
+something_from__
+it.
+
+#: custom/gallery episode 0.dat
+
+0_1_5
+
+#: custom/gallery episode 1.dat
+
+an_ode_to_msr___
+fish
+
+#: custom/gallery episode 2.dat
+
+insomnia
+
+#: custom/gallery episode 3.dat
+
+	anti-moebius
+
+#: custom/gallery episode 4.dat
+
+the_marketplace
+
+#: custom/the heist episode 0.dat
+
+tonight's_the___
+night___________
+________________
+there_are_guards
+in_the_way______
+________________
+if_i_stay_in_the
+shadows,_maybe__
+they_won't_see__
+me
+
+#: custom/the heist episode 1.dat
+
+the_vault_is_at_
+the_end_of_this_
+hallway_________
+________________
+i_need_to_be____
+careful_not_to__
+trip_the_lazers_
+
+#: custom/the heist episode 2.dat
+
+it's_dark_in____
+here____________
+________________
+quickly,_grab_as
+much_as_possible
+________________
+be_careful_not__
+to_get_lost
+
+#: custom/the heist episode 3.dat
+
+there_are_guards
+everywhere______
+________________
+there_must_be___
+somewhere_to_lay
+low_for_a_while
+
+#: custom/the heist episode 4.dat
+
+your_diomands___
+are_worthless___
+________________
+there_is_an_____
+inperfection_at_
+the_core________
+
+#: custom/town episode 0.dat
+
+oh,_my_son._____
+________________
+come_here,_i____
+have_a_job_for__
+you.
+
+#: custom/town episode 1.dat
+
+go_to_your______
+grandmother's___
+next-door;_i____
+she_needs_______
+someone_to_do___
+some_shopping___
+for_her.
+
+#: custom/town episode 10.dat
+
+that's_right,_my
+boy;_stop_______
+running.________
+________________
+mmm,_you_have___
+the_most________
+delicious_______
+brains!
+
+#: custom/town episode 2.dat
+
+come_here_while_
+i_have_a_better_
+look_at_you,_my_
+boy.
+
+#: custom/town episode 3.dat
+
+ah,_you've_grown
+up._____________
+________________
+now,_your_granny
+needs_some_blue_
+pills_from_the__
+shop_across_the_
+street._________
+________________
+could_you_fetch_
+her_some?
+
+#: custom/town episode 4.dat
+
+i_should________
+probably_bring__
+them_straight___
+back_to_her.
+
+#: custom/town episode 5.dat
+
+thank_you_very__
+much_my_boy.____
+________________
+your_aunt_has___
+been_asking_for_
+you;_she_lives__
+around_the______
+coern_from_your_
+house,_you_know?
+________________
+you_should_visit
+
+#: custom/town episode 6.dat
+
+i've_lived_all__
+alone_here_since
+your_uncle_died.
+________________
+i_cannot_leave__
+this_house,_but_
+could_you_bring_
+these_flowers_to
+the_graveyard___
+behind_the______
+supermarket?
+
+#: custom/town episode 7.dat
+
+rot_in_hell_____
+uncle,_may_you__
+never_molest_a__
+child_again.____
+________________
+holy_shit...____
+what's__________
+happening?______
+________________
+must_check_on___
+mom!	
+
+#: custom/town episode 8.dat
+
+zombies?_what's_
+this_about______
+zombies?________
+________________
+stop_bothering__
+me,_son;_go_take
+grandma_her_____
+dinner.	
+
+#: custom/town episode 9.dat
+
+that's_right,___
+boy,_why_don't__
+you_come_here___
+and_give_grandma
+her_dinner!
+
+#: custom/waiting for episode 0.dat
+
+vladimir:_______
+you_again!
+
+#: custom/waiting for episode 1.dat
+
+estragon:_______
+don't_touch_me!
+
+#: custom/waiting for episode 10.dat
+
+estragon:_______
+________________
+another_day_done
+with.
+
+#: custom/waiting for episode 11.dat
+
+vladimir:_______
+not_yet.
+
+#: custom/waiting for episode 12.dat
+
+estragon:_______
+for_me_it's_over
+and_done_with,__
+no_matter_what__
+happens.________
+________________
+i_heard_you_____
+singing.
+
+#: custom/waiting for episode 13.dat
+
+vladimir:_______
+that's_right,_i_
+remember.
+
+#: custom/waiting for episode 14.dat
+
+estragon:_______
+that_finished___
+me.__i_said_to__
+myself,_he's_all
+alone,_he_thinks
+i'm_gone________
+forever,_and_he_
+sings.
+
+#: custom/waiting for episode 15.dat
+
+vladimir:_______
+one_is_not______
+master_of_one's_
+moods.__________
+________________
+all_day_i've____
+felt_in_great___
+form.___________
+_______________
+
+#: custom/waiting for episode 16.dat
+
+vladimir:_______
+i_didn't_get_up_
+in_the_night,___
+not_once!
+
+#: custom/waiting for episode 17.dat
+
+estragon:_______
+you_see,_you____
+piss_better_when
+i'm_not_there.
+
+#: custom/waiting for episode 18.dat
+
+vladimir:_______
+i_missed_you_...
+and_at_the_same_
+time_i_was______
+happy.__________
+________________
+isn't_that_a____
+strange_thing?
+
+#: custom/waiting for episode 19.dat
+
+serialization::a
+rchive
+
+#: custom/waiting for episode 2.dat
+
+vladimir:_______
+do_you_want_me__
+to_go_away?_____
+________________
+gogo!___________
+________________
+did_they_beat___
+you?____________
+________________
+gogo!
+
+#: custom/waiting for episode 20.dat
+
+vladimir:_______
+perhaps_it's_not
+quite_the_right_
+word.
+
+#: custom/waiting for episode 21.dat
+
+estragon:_______
+and_now?
+
+#: custom/waiting for episode 22.dat
+
+vladimir:_______
+now?____________
+..._____________
+there_you_are___
+again...________
+________________
+there_we_are____
+again...________
+________________
+there_i_am______
+again.
+
+#: custom/waiting for episode 23.dat
+
+estragon:_______
+you_see,_you____
+feel_worse_when_
+i'm_with_you.___
+________________
+i_feel_better___
+alone_too.
+
+#: custom/waiting for episode 24.dat
+
+vladimir:_______
+then_why_do_you_
+always_come_____
+crawling_back?
+
+#: custom/waiting for episode 25.dat
+
+estragon:_______
+i_don't_know.
+
+#: custom/waiting for episode 3.dat
+
+vladimir:_______
+where_did_you___
+spend_the_night?
+
+#: custom/waiting for episode 4.dat
+
+estragon:_______
+don't_touch_me!_
+________________
+don't_question__
+me!_____________
+________________
+don't_speak_to__
+me!_____________
+________________
+stay_with_me!
+
+#: custom/waiting for episode 5.dat
+
+vladimir:_______
+did_i_ever_leave
+you?
+
+#: custom/waiting for episode 6.dat
+
+estragon:_______
+you_let_me_go.
+
+#: custom/waiting for episode 7.dat
+
+vladimir:_______
+look_at_me._____
+________________
+will_you_look_at
+me!
+
+#: custom/waiting for episode 8.dat
+
+estragon:_______
+what_a_day!
+
+#: custom/waiting for episode 9.dat
+
+vladimir:_______
+who_beat_you?___
+________________
+tell_me.
+
+#: custom/wirefractals episode 0.dat
+
+this_chapter____
+contains_some___
+experiments_with
+fractal_levels__
+that_shrink_to_a
+single_point.___
+________________
+in_each_of_these
+levels,_the_____
+purpose_is_to___
+find_this_point.
+
+#: custom/wirefractals episode 1.dat
+
+'nobody_will____
+deny_that_there_
+is_at_least_some
+roughness_______
+everywhere'_____
+________________
+________________
+_-_benoit_______
+___mandelbrot
+
+#: custom/wirefractals episode 10.dat
+
+'when_you_make__
+the_finding_____
+yourself_-_even_
+if_you're_the___
+last_person_on__
+earth_to_see_the
+light_-_you'll__
+never_forget_it'
+________________
+_-_carl_________
+___sagan
+
+#: custom/wirefractals episode 2.dat
+
+'the_most_______
+beautiful_thing_
+we_can__________
+experience_is___
+the_mysterious._
+it_is_the_source
+of_all_true_art_
+and_science.'___
+________________
+_-_albert_______
+___einstein
+
+#: custom/wirefractals episode 3.dat
+
+'smooth_shapes__
+are_very_rare_in
+the_wild_but____
+extremely_______
+important_in_the
+ivory_tower_and_
+the_factory.'___
+________________
+_-_benoit_______
+___mandelbrot
+
+#: custom/wirefractals episode 4.dat
+
+'mathematics____
+possesses_not___
+only_truth,_but_
+also_supreme____
+beauty.'________
+________________
+_-_bertrand_____
+___russell
+
+#: custom/wirefractals episode 5.dat
+
+'every_human____
+activity,_good__
+or_bad,_except__
+mathematics,____
+must_come_to_an_
+end.'___________
+________________
+________________
+_-_paul_________
+___erdos
+
+#: custom/wirefractals episode 6.dat
+
+'for_much_of_my_
+life_there_was__
+no_place_where__
+the_things_i____
+wanted_to_______
+investigate_were
+of_interest_to__
+anyone.'________
+________________
+_-_benoit_______
+___mandelbrot
+
+#: custom/wirefractals episode 7.dat
+
+'everything_____
+should_be_made__
+as_simple_as____
+possible,_but___
+not_simpler.'___
+________________
+________________
+_-_albert_______
+___einstein
+
+#: custom/wirefractals episode 8.dat
+
+'nature_flies___
+from_the________
+infinite,_for___
+the_infinite_is_
+unending,_and___
+nature_seeks_an_
+end.'___________
+________________
+_-_aristotle
+
+#: custom/wirefractals episode 9.dat
+
+'truth_is_ever__
+to_be_found_in__
+simplicity,_and_
+not_in_the______
+multiplicity_and
+confusion_of____
+things.'________
+________________
+_-_isaac________
+___newton
+

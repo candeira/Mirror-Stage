@@ -15,6 +15,10 @@ def extract_string(chapter):
     end = index + int(length)
     return chapter[index:end]
     
+def extract_number(filename):
+    l = filename.split('.')
+    return int(l[0])
+
 def allchapters(dirs):
     """
     Iterates over game levels xtracting & yielding full text of level description
@@ -22,19 +26,19 @@ def allchapters(dirs):
     for eachdir in dirs:
         for path, dirnames, filenames in os.walk(os.path.join(BASEDIR, eachdir)):
             dirnames.sort()
-            filenames.sort()
+            filenames.sort(key=extract_number)
             for filename in filenames:
-                if filename[-1] == "~" or filename[0] == ".":
+                if filename[-1] == "~":
                     continue
                 print path, filename
                 with open(os.path.join(path, filename)) as f:
                     chapter = f.read()
                 yield (path, filename, chapter)
 
-def print_grid(text, dirname, filename, f):
+def print_grid(text, filepath, f):
     # for me to look at while I translate
     text = text.replace(" ", "_")
-    print >> f, "#:", path[3:], "episode", filename
+    print >> f, "#:", filepath[3:]
     print >> f
     while len(text) > 16:
         print >> f, text[:16]
@@ -43,8 +47,8 @@ def print_grid(text, dirname, filename, f):
     print >> f
  
 
-def print_pot(text, dirname, filename, f):
-    print >> f, "#:", path[3:], "episode", filename
+def print_pot(text, filepath, f):
+    print >> f, "#:", filepath[3:]
     print >> f, 'msgid "%s"' % text
     print >> f, 'msgstr ""'
     print >> f
@@ -53,8 +57,9 @@ pot = open("chapters.pot", 'w')
 grids = open("grids.txt", 'w')
 for (path, filename, chapter) in allchapters(("chapters", "custom")):
     line = extract_string(chapter)
-    print_grid(line, path, filename, grids)
-    print_pot(line, path, filename, pot)
+    filepath = os.path.join(path, filename)
+    print_grid(line, filepath, grids)
+    print_pot(line, filepath, pot)
 pot.close()
 grids.close()
     

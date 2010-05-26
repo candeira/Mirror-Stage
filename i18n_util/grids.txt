@@ -1,4 +1,4 @@
-#: chapters/chapter 1 episode 0.dat
+#: chapters/chapter 1/0.dat
 
 please_wait;____
 ________________
@@ -6,7 +6,7 @@ someone_will____
 be_with_you_____
 shortly.________
 
-#: chapters/chapter 1 episode 1.dat
+#: chapters/chapter 1/1.dat
 
 the_doctor_will_
 see_you_now.____
@@ -15,7 +15,7 @@ please_make_your
 way_to_the_end__
 of_the_corridor.
 
-#: chapters/chapter 1 episode 2.dat
+#: chapters/chapter 1/2.dat
 
 please,_________
 make_yourself___
@@ -24,14 +24,14 @@ ________________
 have_a_look_____
 around._________
 
-#: chapters/chapter 1 episode 3.dat
+#: chapters/chapter 1/3.dat
 
 have_you_looked_
 at_yourself_in__
 the_mirror______
 recently?_______
 
-#: chapters/chapter 1 episode 4.dat
+#: chapters/chapter 1/4.dat
 
 not_all_________
 reflections_are_
@@ -43,14 +43,14 @@ real.___________
 ________________
 do_you_remember?
 
-#: chapters/chapter 1 episode 5.dat
+#: chapters/chapter 1/5.dat
 
 in_the_face_of__
 uncertain_truth_
 you_desire______
 annihilation____
 
-#: chapters/chapter 1 episode 6.dat
+#: chapters/chapter 1/6.dat
 
 there_are_pills_
 that_can_help___
@@ -60,14 +60,14 @@ they_will_make__
 you_feel_without
 reason._________
 
-#: chapters/chapter 1 episode 7.dat
+#: chapters/chapter 1/7.dat
 
 what_will_it____
 take_for_you_to_
 recognise_______
 yourself?_______
 
-#: chapters/chapter 1 episode 8.dat
+#: chapters/chapter 1/8.dat
 
 the_session_is__
 over,_unless____
@@ -75,7 +75,7 @@ there_is________
 something_else__
 you_have_to_say?
 
-#: chapters/chapter 2 episode 0.dat
+#: chapters/chapter 2/0.dat
 
 there_he_is,____
 across_the_room.
@@ -86,7 +86,7 @@ ________________
 maybe_i_should__
 talk_to_him...__
 
-#: chapters/chapter 2 episode 1.dat
+#: chapters/chapter 2/1.dat
 
 he_is_coming_for
 dinner_soon,____
@@ -94,7 +94,7 @@ ________________
 but_the_table_is
 set_all_wrong!__
 
-#: chapters/chapter 2 episode 2.dat
+#: chapters/chapter 2/2.dat
 
 i_browse_through
 the_flower_shop,
@@ -102,7 +102,7 @@ searching_for_a_
 worthy_bloom____
 present_him.____
 
-#: chapters/chapter 2 episode 3.dat
+#: chapters/chapter 2/3.dat
 
 the_groom_must__
 be_on_the_left,_
@@ -113,7 +113,7 @@ where_am_i,_the_
 other_groom,_to_
 go?_____________
 
-#: chapters/chapter 2 episode 4.dat
+#: chapters/chapter 2/4.dat
 
 my_husband,_____
 he_is_lying_on__
@@ -126,7 +126,7 @@ not_wake_him,___
 yet_i_am_so_____
 tired...
 
-#: chapters/chapter 2 episode 5.dat
+#: chapters/chapter 2/5.dat
 
 sometimes_he_got
 angry_-_________
@@ -136,7 +136,7 @@ usually_calm____
 down_if_i_left__
 him_be.
 
-#: chapters/chapter 2 episode 6.dat
+#: chapters/chapter 2/6.dat
 
 it_wasn't_all___
 bad;____________
@@ -144,14 +144,14 @@ ________________
 he_had_his_good_
 side.
 
-#: chapters/chapter 2 episode 7.dat
+#: chapters/chapter 2/7.dat
 
 since_he_died___
 the_world_has___
 been_to_me______
 as_a_rose_______
 
-#: chapters/chapter 2 episode 8.dat
+#: chapters/chapter 2/8.dat
 
 we_overcame_____
 inequality_and__
@@ -160,7 +160,7 @@ with_love_and___
 symmetry-_______
 breaking________
 
-#: chapters/chapter 3 episode 0.dat
+#: chapters/chapter 3/0.dat
 
 this_is_the_____
 beginning_of_a__
@@ -174,67 +174,14 @@ it_could_also_be
 a_heartfelt_____
 apology.
 
-#: chapters/chapter 3 episode 1.dat
+#: chapters/chapter 3/1.dat
 
 you_must________
 sometimes_try___
 be_aware_of_your
 own_behaviour.
 
-#: chapters/chapter 3 episode 10.dat
-
-sometimes,_both_
-orientation_and_
-scale_matter.
-
-#: chapters/chapter 3 episode 11.dat
-
-sometimes_you___
-can_only_infer__
-orientation_____
-by_paying_______
-attention_to____
-your_behaviour.
-
-#: chapters/chapter 3 episode 12.dat
-
-another_recap
-
-#: chapters/chapter 3 episode 13.dat
-
-things_that_move
-are_generally_to
-be_avoided,_with
-one_exception.
-
-#: chapters/chapter 3 episode 14.dat
-
-a_recap
-
-#: chapters/chapter 3 episode 15.dat
-
-do_not_be_______
-confused_if_the_
-colours_are_____
-different;_it_is
-but_the_change__
-that_matters.
-
-#: chapters/chapter 3 episode 16.dat
-
-that_is_not_____
-everything.__in_
-a_way,_it_is_not
-anything._i_hope
-that_it_will_not
-destroy_your____
-comprehension_of
-my_efforts._____
-________________
-mea_culpa,______
-_____increpare
-
-#: chapters/chapter 3 episode 2.dat
+#: chapters/chapter 3/2.dat
 
 spaces_are______
 sometimes_put___
@@ -246,7 +193,7 @@ behaviour_in_the
 world_as_you____
 experience_it.
 
-#: chapters/chapter 3 episode 3.dat
+#: chapters/chapter 3/3.dat
 
 some_things_are_
 harder_to_______
@@ -260,18 +207,18 @@ will_go_some_way
 to_explaining___
 things.
 
-#: chapters/chapter 3 episode 4.dat
+#: chapters/chapter 3/4.dat
 
 orientation_____
 sometimes_does__
 not_matter.
 
-#: chapters/chapter 3 episode 5.dat
+#: chapters/chapter 3/5.dat
 
 and,_sometimes__
 it_does_matter.
 
-#: chapters/chapter 3 episode 6.dat
+#: chapters/chapter 3/6.dat
 
 sometimes,_you__
 will_be_able_to_
@@ -283,21 +230,74 @@ this_can_be_____
 viewed_in_a_____
 different_light.
 
-#: chapters/chapter 3 episode 7.dat
+#: chapters/chapter 3/7.dat
 
 a_recap
 
-#: chapters/chapter 3 episode 8.dat
+#: chapters/chapter 3/8.dat
 
 sometimes_scale_
 does_not_matter.
 
-#: chapters/chapter 3 episode 9.dat
+#: chapters/chapter 3/9.dat
 
 and_sometimes_it
 does_matter.
 
-#: chapters/chapter 4 episode 0.dat
+#: chapters/chapter 3/10.dat
+
+sometimes,_both_
+orientation_and_
+scale_matter.
+
+#: chapters/chapter 3/11.dat
+
+sometimes_you___
+can_only_infer__
+orientation_____
+by_paying_______
+attention_to____
+your_behaviour.
+
+#: chapters/chapter 3/12.dat
+
+another_recap
+
+#: chapters/chapter 3/13.dat
+
+things_that_move
+are_generally_to
+be_avoided,_with
+one_exception.
+
+#: chapters/chapter 3/14.dat
+
+a_recap
+
+#: chapters/chapter 3/15.dat
+
+do_not_be_______
+confused_if_the_
+colours_are_____
+different;_it_is
+but_the_change__
+that_matters.
+
+#: chapters/chapter 3/16.dat
+
+that_is_not_____
+everything.__in_
+a_way,_it_is_not
+anything._i_hope
+that_it_will_not
+destroy_your____
+comprehension_of
+my_efforts._____
+________________
+mea_culpa,______
+_____increpare
+
+#: chapters/chapter 4/0.dat
 
 you_awake_to____
 find_yourself___
@@ -310,7 +310,7 @@ you_grew_up,_and
 yet_it_is_so____
 unfamiliar_now.
 
-#: chapters/chapter 4 episode 1.dat
+#: chapters/chapter 4/1.dat
 
 i_lived_in_a____
 small_house,____
@@ -324,7 +324,7 @@ to_take_the_____
 perilous_trip_to
 the_city.
 
-#: chapters/chapter 4 episode 2.dat
+#: chapters/chapter 4/2.dat
 
 facing_the_gate,
 i_saw_the_city,_
@@ -333,7 +333,7 @@ it_was_fortified
 _-_wrapped_up___
 inside_itself.
 
-#: chapters/chapter 4 episode 3.dat
+#: chapters/chapter 4/3.dat
 
 the_hive,_______
 the_locus_of____
@@ -343,7 +343,7 @@ could_i_possibly
 find_a_place_for
 myself,_here?
 
-#: chapters/chapter 4 episode 4.dat
+#: chapters/chapter 4/4.dat
 
 from_its_base,__
 the_tower_looked
@@ -352,7 +352,7 @@ urge'd_to_______
 experience_its__
 full_extent.
 
-#: chapters/chapter 4 episode 5.dat
+#: chapters/chapter 4/5.dat
 
 i_teetered_about
 from_that_______
@@ -362,7 +362,7 @@ stretching_out,_
 and_longed_to___
 cross_it.
 
-#: chapters/chapter 4 episode 6.dat
+#: chapters/chapter 4/6.dat
 
 the_city_blocks_
 they_stretch____
@@ -376,7 +376,7 @@ roads_come_and__
 leave._my_love,_
 he_be_there.
 
-#: chapters/chapter 4 episode 7.dat
+#: chapters/chapter 4/7.dat
 
 this_church_is__
 no_place_for_me_
@@ -389,7 +389,7 @@ of_the_bar_down_
 the_street_from_
 here.
 
-#: chapters/chapter 4 episode 8.dat
+#: chapters/chapter 4/8.dat
 
 and,i_think_i___
 did_experience__
@@ -397,7 +397,7 @@ some_then,_some_
 satisfaction.___
 ________________
 
-#: chapters/chapter 5 episode 0.dat
+#: chapters/chapter 5/0.dat
 
 i_started,_in___
 the_air,_and_in_
@@ -409,7 +409,7 @@ they_felt_the___
 chill_of_the____
 frost.
 
-#: chapters/chapter 5 episode 1.dat
+#: chapters/chapter 5/1.dat
 
 the_snow_began__
 to_fall,_then.__
@@ -420,7 +420,7 @@ and_melt_as_it__
 landed_on_my____
 finger.
 
-#: chapters/chapter 5 episode 2.dat
+#: chapters/chapter 5/2.dat
 
 and,_through_the
 freezing_air_i__
@@ -432,7 +432,7 @@ for_the_orange__
 warmth_of_______
 childhood.
 
-#: chapters/chapter 5 episode 3.dat
+#: chapters/chapter 5/3.dat
 
 the_cold_yet____
 still_persisted,
@@ -446,7 +446,7 @@ diversion_of____
 myself_to_abide_
 the_chill.
 
-#: chapters/chapter 5 episode 4.dat
+#: chapters/chapter 5/4.dat
 
 as_dusk_________
 approached,_on__
@@ -454,7 +454,7 @@ that_snowy_day,_
 i_looked_to_the_
 horizon.
 
-#: chapters/chapter 5 episode 5.dat
+#: chapters/chapter 5/5.dat
 
 and,_looking_up,
 i_saw_the_sky,_a
@@ -465,7 +465,7 @@ but_how_________
 beautiful_they__
 were!
 
-#: chapters/chapter 5 episode 6.dat
+#: chapters/chapter 5/6.dat
 
 and_when_i_sat__
 down,_the_next__
@@ -479,7 +479,7 @@ ________________
 head_down_in____
 shame...
 
-#: chapters/chapter 6 episode 0.dat
+#: chapters/chapter 6/0.dat
 
 my_head_is______
 aching...where__
@@ -489,7 +489,7 @@ where_are_my____
 children?_______
 __
 
-#: chapters/chapter 6 episode 1.dat
+#: chapters/chapter 6/1.dat
 
 i_found_myself__
 in_a_great______
@@ -503,7 +503,7 @@ i_must_escape,__
 and_go_home_to__
 my_family.
 
-#: chapters/chapter 6 episode 2.dat
+#: chapters/chapter 6/2.dat
 
 i_am_in_the_____
 main_corridor___
@@ -514,7 +514,7 @@ ________________
 my_heart_is_____
 breaking.
 
-#: chapters/chapter 6 episode 3.dat
+#: chapters/chapter 6/3.dat
 
 i_staggered_____
 along_the_beach.
@@ -528,7 +528,7 @@ i_saw_a_boat_at_
 the_distant_end_
 of_the_beach.
 
-#: chapters/chapter 6 episode 4.dat
+#: chapters/chapter 6/4.dat
 
 i_then_began_the
 achingly_long___
@@ -537,7 +537,7 @@ coast_to_my_home
 island._________
 _________
 
-#: chapters/chapter 6 episode 5.dat
+#: chapters/chapter 6/5.dat
 
 arriving_home,__
 i_embraced_my___
@@ -546,21 +546,21 @@ later_i_cried_by
 my_wife's_______
 graveside.
 
-#: chapters/chapter 7 episode 0.dat
+#: chapters/chapter 7/0.dat
 
 the_doily
 
-#: chapters/chapter 7 episode 1.dat
+#: chapters/chapter 7/1.dat
 
 my_grandmother's
 stockings.
 
-#: chapters/chapter 7 episode 2.dat
+#: chapters/chapter 7/2.dat
 
 the_hydrangea___
 flower.
 
-#: chapters/chapter 7 episode 3.dat
+#: chapters/chapter 7/3.dat
 
 the_area_around_
 the_tree_was____
@@ -572,27 +572,27 @@ them_to_see_if_i
 could_find_the__
 smallest.
 
-#: chapters/chapter 7 episode 4.dat
+#: chapters/chapter 7/4.dat
 
 the_wicker_mat.
 
-#: chapters/chapter 7 episode 5.dat
+#: chapters/chapter 7/5.dat
 
 lights_out_time!
 
-#: chapters/chapter 7 episode 6.dat
+#: chapters/chapter 7/6.dat
 
 the_three_clocks
 down_the_hall,__
 when_i_was______
 trying_to_sleep.
 
-#: chapters/chapter 7 episode 7.dat
+#: chapters/chapter 7/7.dat
 
 my_aunt's_______
 sweet_shop.
 
-#: chapters/chapter 7 episode 8.dat
+#: chapters/chapter 7/8.dat
 
 thank_you_for___
 playing_through_
@@ -604,28 +604,28 @@ ________________
 something_from__
 it.
 
-#: custom/gallery episode 0.dat
+#: custom/gallery/0.dat
 
 0_1_5
 
-#: custom/gallery episode 1.dat
+#: custom/gallery/1.dat
 
 an_ode_to_msr___
 fish
 
-#: custom/gallery episode 2.dat
+#: custom/gallery/2.dat
 
 insomnia
 
-#: custom/gallery episode 3.dat
+#: custom/gallery/3.dat
 
 	anti-moebius
 
-#: custom/gallery episode 4.dat
+#: custom/gallery/4.dat
 
 the_marketplace
 
-#: custom/the heist episode 0.dat
+#: custom/the heist/0.dat
 
 tonight's_the___
 night___________
@@ -638,7 +638,7 @@ shadows,_maybe__
 they_won't_see__
 me
 
-#: custom/the heist episode 1.dat
+#: custom/the heist/1.dat
 
 the_vault_is_at_
 the_end_of_this_
@@ -648,7 +648,7 @@ i_need_to_be____
 careful_not_to__
 trip_the_lazers_
 
-#: custom/the heist episode 2.dat
+#: custom/the heist/2.dat
 
 it's_dark_in____
 here____________
@@ -659,7 +659,7 @@ ________________
 be_careful_not__
 to_get_lost
 
-#: custom/the heist episode 3.dat
+#: custom/the heist/3.dat
 
 there_are_guards
 everywhere______
@@ -668,7 +668,7 @@ there_must_be___
 somewhere_to_lay
 low_for_a_while
 
-#: custom/the heist episode 4.dat
+#: custom/the heist/4.dat
 
 your_diomands___
 are_worthless___
@@ -677,7 +677,7 @@ there_is_an_____
 inperfection_at_
 the_core________
 
-#: custom/town episode 0.dat
+#: custom/town/0.dat
 
 oh,_my_son._____
 ________________
@@ -685,7 +685,7 @@ come_here,_i____
 have_a_job_for__
 you.
 
-#: custom/town episode 1.dat
+#: custom/town/1.dat
 
 go_to_your______
 grandmother's___
@@ -695,25 +695,14 @@ someone_to_do___
 some_shopping___
 for_her.
 
-#: custom/town episode 10.dat
-
-that's_right,_my
-boy;_stop_______
-running.________
-________________
-mmm,_you_have___
-the_most________
-delicious_______
-brains!
-
-#: custom/town episode 2.dat
+#: custom/town/2.dat
 
 come_here_while_
 i_have_a_better_
 look_at_you,_my_
 boy.
 
-#: custom/town episode 3.dat
+#: custom/town/3.dat
 
 ah,_you've_grown
 up._____________
@@ -727,14 +716,14 @@ ________________
 could_you_fetch_
 her_some?
 
-#: custom/town episode 4.dat
+#: custom/town/4.dat
 
 i_should________
 probably_bring__
 them_straight___
 back_to_her.
 
-#: custom/town episode 5.dat
+#: custom/town/5.dat
 
 thank_you_very__
 much_my_boy.____
@@ -748,7 +737,7 @@ house,_you_know?
 ________________
 you_should_visit
 
-#: custom/town episode 6.dat
+#: custom/town/6.dat
 
 i've_lived_all__
 alone_here_since
@@ -762,7 +751,7 @@ the_graveyard___
 behind_the______
 supermarket?
 
-#: custom/town episode 7.dat
+#: custom/town/7.dat
 
 rot_in_hell_____
 uncle,_may_you__
@@ -776,7 +765,7 @@ ________________
 must_check_on___
 mom!	
 
-#: custom/town episode 8.dat
+#: custom/town/8.dat
 
 zombies?_what's_
 this_about______
@@ -787,7 +776,7 @@ me,_son;_go_take
 grandma_her_____
 dinner.	
 
-#: custom/town episode 9.dat
+#: custom/town/9.dat
 
 that's_right,___
 boy,_why_don't__
@@ -795,99 +784,28 @@ you_come_here___
 and_give_grandma
 her_dinner!
 
-#: custom/waiting for episode 0.dat
+#: custom/town/10.dat
+
+that's_right,_my
+boy;_stop_______
+running.________
+________________
+mmm,_you_have___
+the_most________
+delicious_______
+brains!
+
+#: custom/waiting for/0.dat
 
 vladimir:_______
 you_again!
 
-#: custom/waiting for episode 1.dat
+#: custom/waiting for/1.dat
 
 estragon:_______
 don't_touch_me!
 
-#: custom/waiting for episode 10.dat
-
-estragon:_______
-________________
-another_day_done
-with.
-
-#: custom/waiting for episode 11.dat
-
-vladimir:_______
-not_yet.
-
-#: custom/waiting for episode 12.dat
-
-estragon:_______
-for_me_it's_over
-and_done_with,__
-no_matter_what__
-happens.________
-________________
-i_heard_you_____
-singing.
-
-#: custom/waiting for episode 13.dat
-
-vladimir:_______
-that's_right,_i_
-remember.
-
-#: custom/waiting for episode 14.dat
-
-estragon:_______
-that_finished___
-me.__i_said_to__
-myself,_he's_all
-alone,_he_thinks
-i'm_gone________
-forever,_and_he_
-sings.
-
-#: custom/waiting for episode 15.dat
-
-vladimir:_______
-one_is_not______
-master_of_one's_
-moods.__________
-________________
-all_day_i've____
-felt_in_great___
-form.___________
-_______________
-
-#: custom/waiting for episode 16.dat
-
-vladimir:_______
-i_didn't_get_up_
-in_the_night,___
-not_once!
-
-#: custom/waiting for episode 17.dat
-
-estragon:_______
-you_see,_you____
-piss_better_when
-i'm_not_there.
-
-#: custom/waiting for episode 18.dat
-
-vladimir:_______
-i_missed_you_...
-and_at_the_same_
-time_i_was______
-happy.__________
-________________
-isn't_that_a____
-strange_thing?
-
-#: custom/waiting for episode 19.dat
-
-serialization::a
-rchive
-
-#: custom/waiting for episode 2.dat
+#: custom/waiting for/2.dat
 
 vladimir:_______
 do_you_want_me__
@@ -900,19 +818,151 @@ you?____________
 ________________
 gogo!
 
-#: custom/waiting for episode 20.dat
+#: custom/waiting for/3.dat
+
+vladimir:_______
+where_did_you___
+spend_the_night?
+
+#: custom/waiting for/4.dat
+
+estragon:_______
+don't_touch_me!_
+________________
+don't_question__
+me!_____________
+________________
+don't_speak_to__
+me!_____________
+________________
+stay_with_me!
+
+#: custom/waiting for/5.dat
+
+vladimir:_______
+did_i_ever_leave
+you?
+
+#: custom/waiting for/6.dat
+
+estragon:_______
+you_let_me_go.
+
+#: custom/waiting for/7.dat
+
+vladimir:_______
+look_at_me._____
+________________
+will_you_look_at
+me!
+
+#: custom/waiting for/8.dat
+
+estragon:_______
+what_a_day!
+
+#: custom/waiting for/9.dat
+
+vladimir:_______
+who_beat_you?___
+________________
+tell_me.
+
+#: custom/waiting for/10.dat
+
+estragon:_______
+________________
+another_day_done
+with.
+
+#: custom/waiting for/11.dat
+
+vladimir:_______
+not_yet.
+
+#: custom/waiting for/12.dat
+
+estragon:_______
+for_me_it's_over
+and_done_with,__
+no_matter_what__
+happens.________
+________________
+i_heard_you_____
+singing.
+
+#: custom/waiting for/13.dat
+
+vladimir:_______
+that's_right,_i_
+remember.
+
+#: custom/waiting for/14.dat
+
+estragon:_______
+that_finished___
+me.__i_said_to__
+myself,_he's_all
+alone,_he_thinks
+i'm_gone________
+forever,_and_he_
+sings.
+
+#: custom/waiting for/15.dat
+
+vladimir:_______
+one_is_not______
+master_of_one's_
+moods.__________
+________________
+all_day_i've____
+felt_in_great___
+form.___________
+_______________
+
+#: custom/waiting for/16.dat
+
+vladimir:_______
+i_didn't_get_up_
+in_the_night,___
+not_once!
+
+#: custom/waiting for/17.dat
+
+estragon:_______
+you_see,_you____
+piss_better_when
+i'm_not_there.
+
+#: custom/waiting for/18.dat
+
+vladimir:_______
+i_missed_you_...
+and_at_the_same_
+time_i_was______
+happy.__________
+________________
+isn't_that_a____
+strange_thing?
+
+#: custom/waiting for/19.dat
+
+serialization::a
+rchive
+
+#: custom/waiting for/20.dat
 
 vladimir:_______
 perhaps_it's_not
 quite_the_right_
 word.
 
-#: custom/waiting for episode 21.dat
+#: custom/waiting for/21.dat
 
 estragon:_______
 and_now?
 
-#: custom/waiting for episode 22.dat
+#: custom/waiting for/22.dat
 
 vladimir:_______
 now?____________
@@ -926,7 +976,7 @@ ________________
 there_i_am______
 again.
 
-#: custom/waiting for episode 23.dat
+#: custom/waiting for/23.dat
 
 estragon:_______
 you_see,_you____
@@ -936,69 +986,19 @@ ________________
 i_feel_better___
 alone_too.
 
-#: custom/waiting for episode 24.dat
+#: custom/waiting for/24.dat
 
 vladimir:_______
 then_why_do_you_
 always_come_____
 crawling_back?
 
-#: custom/waiting for episode 25.dat
+#: custom/waiting for/25.dat
 
 estragon:_______
 i_don't_know.
 
-#: custom/waiting for episode 3.dat
-
-vladimir:_______
-where_did_you___
-spend_the_night?
-
-#: custom/waiting for episode 4.dat
-
-estragon:_______
-don't_touch_me!_
-________________
-don't_question__
-me!_____________
-________________
-don't_speak_to__
-me!_____________
-________________
-stay_with_me!
-
-#: custom/waiting for episode 5.dat
-
-vladimir:_______
-did_i_ever_leave
-you?
-
-#: custom/waiting for episode 6.dat
-
-estragon:_______
-you_let_me_go.
-
-#: custom/waiting for episode 7.dat
-
-vladimir:_______
-look_at_me._____
-________________
-will_you_look_at
-me!
-
-#: custom/waiting for episode 8.dat
-
-estragon:_______
-what_a_day!
-
-#: custom/waiting for episode 9.dat
-
-vladimir:_______
-who_beat_you?___
-________________
-tell_me.
-
-#: custom/wirefractals episode 0.dat
+#: custom/wirefractals/0.dat
 
 this_chapter____
 contains_some___
@@ -1012,7 +1012,7 @@ levels,_the_____
 purpose_is_to___
 find_this_point.
 
-#: custom/wirefractals episode 1.dat
+#: custom/wirefractals/1.dat
 
 'nobody_will____
 deny_that_there_
@@ -1024,21 +1024,7 @@ ________________
 _-_benoit_______
 ___mandelbrot
 
-#: custom/wirefractals episode 10.dat
-
-'when_you_make__
-the_finding_____
-yourself_-_even_
-if_you're_the___
-last_person_on__
-earth_to_see_the
-light_-_you'll__
-never_forget_it'
-________________
-_-_carl_________
-___sagan
-
-#: custom/wirefractals episode 2.dat
+#: custom/wirefractals/2.dat
 
 'the_most_______
 beautiful_thing_
@@ -1052,7 +1038,7 @@ ________________
 _-_albert_______
 ___einstein
 
-#: custom/wirefractals episode 3.dat
+#: custom/wirefractals/3.dat
 
 'smooth_shapes__
 are_very_rare_in
@@ -1065,7 +1051,7 @@ ________________
 _-_benoit_______
 ___mandelbrot
 
-#: custom/wirefractals episode 4.dat
+#: custom/wirefractals/4.dat
 
 'mathematics____
 possesses_not___
@@ -1076,7 +1062,7 @@ ________________
 _-_bertrand_____
 ___russell
 
-#: custom/wirefractals episode 5.dat
+#: custom/wirefractals/5.dat
 
 'every_human____
 activity,_good__
@@ -1089,7 +1075,7 @@ ________________
 _-_paul_________
 ___erdos
 
-#: custom/wirefractals episode 6.dat
+#: custom/wirefractals/6.dat
 
 'for_much_of_my_
 life_there_was__
@@ -1103,7 +1089,7 @@ ________________
 _-_benoit_______
 ___mandelbrot
 
-#: custom/wirefractals episode 7.dat
+#: custom/wirefractals/7.dat
 
 'everything_____
 should_be_made__
@@ -1115,7 +1101,7 @@ ________________
 _-_albert_______
 ___einstein
 
-#: custom/wirefractals episode 8.dat
+#: custom/wirefractals/8.dat
 
 'nature_flies___
 from_the________
@@ -1127,7 +1113,7 @@ end.'___________
 ________________
 _-_aristotle
 
-#: custom/wirefractals episode 9.dat
+#: custom/wirefractals/9.dat
 
 'truth_is_ever__
 to_be_found_in__
@@ -1139,4 +1125,18 @@ things.'________
 ________________
 _-_isaac________
 ___newton
+
+#: custom/wirefractals/10.dat
+
+'when_you_make__
+the_finding_____
+yourself_-_even_
+if_you're_the___
+last_person_on__
+earth_to_see_the
+light_-_you'll__
+never_forget_it'
+________________
+_-_carl_________
+___sagan
 

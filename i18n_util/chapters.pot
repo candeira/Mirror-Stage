@@ -1,496 +1,496 @@
-#: chapters/chapter 1 episode 0.dat
+#: chapters/chapter 1/0.dat
 msgid "please wait;                    someone will    be with you     shortly.        "
 msgstr ""
 
-#: chapters/chapter 1 episode 1.dat
+#: chapters/chapter 1/1.dat
 msgid "the doctor will see you now.                    please make yourway to the end  of the corridor."
 msgstr ""
 
-#: chapters/chapter 1 episode 2.dat
+#: chapters/chapter 1/2.dat
 msgid "please,         make yourself   comfortable;                    have a look     around.         "
 msgstr ""
 
-#: chapters/chapter 1 episode 3.dat
+#: chapters/chapter 1/3.dat
 msgid "have you looked at yourself in  the mirror      recently?       "
 msgstr ""
 
-#: chapters/chapter 1 episode 4.dat
+#: chapters/chapter 1/4.dat
 msgid "not all         reflections are false.                          but only false  reflections are real.                           do you remember?"
 msgstr ""
 
-#: chapters/chapter 1 episode 5.dat
+#: chapters/chapter 1/5.dat
 msgid "in the face of  uncertain truth you desire      annihilation    "
 msgstr ""
 
-#: chapters/chapter 1 episode 6.dat
+#: chapters/chapter 1/6.dat
 msgid "there are pills that can help   you forget.                     they will make  you feel withoutreason.         "
 msgstr ""
 
-#: chapters/chapter 1 episode 7.dat
+#: chapters/chapter 1/7.dat
 msgid "what will it    take for you to recognise       yourself?       "
 msgstr ""
 
-#: chapters/chapter 1 episode 8.dat
+#: chapters/chapter 1/8.dat
 msgid "the session is  over, unless    there is        something else  you have to say?"
 msgstr ""
 
-#: chapters/chapter 2 episode 0.dat
+#: chapters/chapter 2/0.dat
 msgid "there he is,    across the room.                he is very      handsome.                       maybe i should  talk to him...  "
 msgstr ""
 
-#: chapters/chapter 2 episode 1.dat
+#: chapters/chapter 2/1.dat
 msgid "he is coming fordinner soon,                    but the table isset all wrong!  "
 msgstr ""
 
-#: chapters/chapter 2 episode 2.dat
+#: chapters/chapter 2/2.dat
 msgid "i browse throughthe flower shop,searching for a worthy bloom    present him.    "
 msgstr ""
 
-#: chapters/chapter 2 episode 3.dat
+#: chapters/chapter 2/3.dat
 msgid "the groom must  be on the left, but he is on theleft already.                   where am i, the other groom, to go?             "
 msgstr ""
 
-#: chapters/chapter 2 episode 4.dat
+#: chapters/chapter 2/4.dat
 msgid "my husband,     he is lying on  my side of the  bed.                            he sleeps so    softly - i wouldnot wake him,   yet i am so     tired..."
 msgstr ""
 
-#: chapters/chapter 2 episode 5.dat
+#: chapters/chapter 2/5.dat
 msgid "sometimes he gotangry -                         but he would    usually calm    down if i left  him be."
 msgstr ""
 
-#: chapters/chapter 2 episode 6.dat
+#: chapters/chapter 2/6.dat
 msgid "it wasn't all   bad;                            he had his good side."
 msgstr ""
 
-#: chapters/chapter 2 episode 7.dat
+#: chapters/chapter 2/7.dat
 msgid "since he died   the world has   been to me      as a rose       "
 msgstr ""
 
-#: chapters/chapter 2 episode 8.dat
+#: chapters/chapter 2/8.dat
 msgid "we overcame     inequality and  social bigotry  with love and   symmetry-       breaking        "
 msgstr ""
 
-#: chapters/chapter 3 episode 0.dat
+#: chapters/chapter 3/0.dat
 msgid "this is the     beginning of a  litany.                         it could also   be an admission of defeat.                      it could also bea heartfelt     apology."
 msgstr ""
 
-#: chapters/chapter 3 episode 1.dat
+#: chapters/chapter 3/1.dat
 msgid "you must        sometimes try   be aware of yourown behaviour."
 msgstr ""
 
-#: chapters/chapter 3 episode 10.dat
-msgid "sometimes, both orientation and scale matter."
-msgstr ""
-
-#: chapters/chapter 3 episode 11.dat
-msgid "sometimes you   can only infer  orientation     by paying       attention to    your behaviour."
-msgstr ""
-
-#: chapters/chapter 3 episode 12.dat
-msgid "another recap"
-msgstr ""
-
-#: chapters/chapter 3 episode 13.dat
-msgid "things that moveare generally tobe avoided, withone exception."
-msgstr ""
-
-#: chapters/chapter 3 episode 14.dat
-msgid "a recap"
-msgstr ""
-
-#: chapters/chapter 3 episode 15.dat
-msgid "do not be       confused if the colours are     different; it isbut the change  that matters."
-msgstr ""
-
-#: chapters/chapter 3 episode 16.dat
-msgid "that is not     everything.  in a way, it is notanything. i hopethat it will notdestroy your    comprehension ofmy efforts.                     mea culpa,           increpare"
-msgstr ""
-
-#: chapters/chapter 3 episode 2.dat
+#: chapters/chapter 3/2.dat
 msgid "spaces are      sometimes put   to be explored.                 look at your    effect on and   behaviour in theworld as you    experience it."
 msgstr ""
 
-#: chapters/chapter 3 episode 3.dat
+#: chapters/chapter 3/3.dat
 msgid "some things are harder to       explain; i can  but hope that   the miniature   exercise in     ehaustion that  is this chapter will go some wayto explaining   things."
 msgstr ""
 
-#: chapters/chapter 3 episode 4.dat
+#: chapters/chapter 3/4.dat
 msgid "orientation     sometimes does  not matter."
 msgstr ""
 
-#: chapters/chapter 3 episode 5.dat
+#: chapters/chapter 3/5.dat
 msgid "and, sometimes  it does matter."
 msgstr ""
 
-#: chapters/chapter 3 episode 6.dat
+#: chapters/chapter 3/6.dat
 msgid "sometimes, you  will be able to infer your own  presence, thoughit be concealed.                this can be     viewed in a     different light."
 msgstr ""
 
-#: chapters/chapter 3 episode 7.dat
+#: chapters/chapter 3/7.dat
 msgid "a recap"
 msgstr ""
 
-#: chapters/chapter 3 episode 8.dat
+#: chapters/chapter 3/8.dat
 msgid "sometimes scale does not matter."
 msgstr ""
 
-#: chapters/chapter 3 episode 9.dat
+#: chapters/chapter 3/9.dat
 msgid "and sometimes itdoes matter."
 msgstr ""
 
-#: chapters/chapter 4 episode 0.dat
+#: chapters/chapter 3/10.dat
+msgid "sometimes, both orientation and scale matter."
+msgstr ""
+
+#: chapters/chapter 3/11.dat
+msgid "sometimes you   can only infer  orientation     by paying       attention to    your behaviour."
+msgstr ""
+
+#: chapters/chapter 3/12.dat
+msgid "another recap"
+msgstr ""
+
+#: chapters/chapter 3/13.dat
+msgid "things that moveare generally tobe avoided, withone exception."
+msgstr ""
+
+#: chapters/chapter 3/14.dat
+msgid "a recap"
+msgstr ""
+
+#: chapters/chapter 3/15.dat
+msgid "do not be       confused if the colours are     different; it isbut the change  that matters."
+msgstr ""
+
+#: chapters/chapter 3/16.dat
+msgid "that is not     everything.  in a way, it is notanything. i hopethat it will notdestroy your    comprehension ofmy efforts.                     mea culpa,           increpare"
+msgstr ""
+
+#: chapters/chapter 4/0.dat
 msgid "you awake to    find yourself   lying by the    lake, amongst   the bullrushes.                 this was where  you grew up, andyet it is so    unfamiliar now."
 msgstr ""
 
-#: chapters/chapter 4 episode 1.dat
+#: chapters/chapter 4/1.dat
 msgid "i lived in a    small house,    back then, with a garden in the back.                           eventually, i   had to move on, to take the     perilous trip tothe city."
 msgstr ""
 
-#: chapters/chapter 4 episode 2.dat
+#: chapters/chapter 4/2.dat
 msgid "facing the gate,i saw the city,                 it was fortified - wrapped up   inside itself."
 msgstr ""
 
-#: chapters/chapter 4 episode 3.dat
+#: chapters/chapter 4/3.dat
 msgid "the hive,       the locus of    activity.                       could i possiblyfind a place formyself, here?"
 msgstr ""
 
-#: chapters/chapter 4 episode 4.dat
+#: chapters/chapter 4/4.dat
 msgid "from its base,  the tower lookedso tall - i felturge'd to       experience its  full extent."
 msgstr ""
 
-#: chapters/chapter 4 episode 5.dat
+#: chapters/chapter 4/5.dat
 msgid "i teetered aboutfrom that       height - i saw  a girder        stretching out, and longed to   cross it."
 msgstr ""
 
-#: chapters/chapter 4 episode 6.dat
+#: chapters/chapter 4/6.dat
 msgid "the city blocks they stretch    and writhe.                     and in the sky, there be a      finite city,    from which all  roads come and  leave. my love, he be there."
 msgstr ""
 
-#: chapters/chapter 4 episode 7.dat
+#: chapters/chapter 4/7.dat
 msgid "this church is  no place for me now.                            i will find my  peace in a      toilet cubicle  of the bar down the street from here."
 msgstr ""
 
-#: chapters/chapter 4 episode 8.dat
+#: chapters/chapter 4/8.dat
 msgid "and,i think i   did experience  some then, some satisfaction.                   "
 msgstr ""
 
-#: chapters/chapter 5 episode 0.dat
+#: chapters/chapter 5/0.dat
 msgid "i started, in   the air, and in the lightness,  to stretch out  my hands.                       they felt the   chill of the    frost."
 msgstr ""
 
-#: chapters/chapter 5 episode 1.dat
+#: chapters/chapter 5/1.dat
 msgid "the snow began  to fall, then.                  i watched a     snowflake droop and melt as it  landed on my    finger."
 msgstr ""
 
-#: chapters/chapter 5 episode 2.dat
+#: chapters/chapter 5/2.dat
 msgid "and, through thefreezing air i  plummeted.                      down below, i   hoped, in vain, for the orange  warmth of       childhood."
 msgstr ""
 
-#: chapters/chapter 5 episode 3.dat
+#: chapters/chapter 5/3.dat
 msgid "the cold yet    still persisted,but i had to    wait outside yeta while longer -                all alone, i hadto make a       diversion of    myself to abide the chill."
 msgstr ""
 
-#: chapters/chapter 5 episode 4.dat
+#: chapters/chapter 5/4.dat
 msgid "as dusk         approached, on  that snowy day, i looked to the horizon."
 msgstr ""
 
-#: chapters/chapter 5 episode 5.dat
+#: chapters/chapter 5/5.dat
 msgid "and, looking up,i saw the sky, adull mass of    faded stars.                    but how         beautiful they  were!"
 msgstr ""
 
-#: chapters/chapter 5 episode 6.dat
+#: chapters/chapter 5/6.dat
 msgid "and when i sat  down, the next  morning, after  i had gotten in,my mind recalledthe cold still  outside, and...                 ...and i hung myhead down in    shame..."
 msgstr ""
 
-#: chapters/chapter 6 episode 0.dat
+#: chapters/chapter 6/0.dat
 msgid "my head is      aching...where  am i?                           where are my    children?         "
 msgstr ""
 
-#: chapters/chapter 6 episode 1.dat
+#: chapters/chapter 6/1.dat
 msgid "i found myself  in a great      complex, with   doors all about.                the exit is in  a smaller room.                 i must escape,  and go home to  my family."
 msgstr ""
 
-#: chapters/chapter 6 episode 2.dat
+#: chapters/chapter 6/2.dat
 msgid "i am in the     main corridor   now.  the way   out is in a     smaller sector.                 my heart is     breaking."
 msgstr ""
 
-#: chapters/chapter 6 episode 3.dat
+#: chapters/chapter 6/3.dat
 msgid "i staggered     along the beach.                how long have mydaughters been  without a       father?                         i saw a boat at the distant end of the beach."
 msgstr ""
 
-#: chapters/chapter 6 episode 4.dat
+#: chapters/chapter 6/4.dat
 msgid "i then began theachingly long   journey from thecoast to my homeisland.                  "
 msgstr ""
 
-#: chapters/chapter 6 episode 5.dat
+#: chapters/chapter 6/5.dat
 msgid "arriving home,  i embraced my   daughters, and  later i cried bymy wife's       graveside."
 msgstr ""
 
-#: chapters/chapter 7 episode 0.dat
+#: chapters/chapter 7/0.dat
 msgid "the doily"
 msgstr ""
 
-#: chapters/chapter 7 episode 1.dat
+#: chapters/chapter 7/1.dat
 msgid "my grandmother'sstockings."
 msgstr ""
 
-#: chapters/chapter 7 episode 2.dat
+#: chapters/chapter 7/2.dat
 msgid "the hydrangea   flower."
 msgstr ""
 
-#: chapters/chapter 7 episode 3.dat
+#: chapters/chapter 7/3.dat
 msgid "the area around the tree was    blanketed with  petals.                         i sifted throughthem to see if icould find the  smallest."
 msgstr ""
 
-#: chapters/chapter 7 episode 4.dat
+#: chapters/chapter 7/4.dat
 msgid "the wicker mat."
 msgstr ""
 
-#: chapters/chapter 7 episode 5.dat
+#: chapters/chapter 7/5.dat
 msgid "lights out time!"
 msgstr ""
 
-#: chapters/chapter 7 episode 6.dat
+#: chapters/chapter 7/6.dat
 msgid "the three clocksdown the hall,  when i was      trying to sleep."
 msgstr ""
 
-#: chapters/chapter 7 episode 7.dat
+#: chapters/chapter 7/7.dat
 msgid "my aunt's       sweet shop."
 msgstr ""
 
-#: chapters/chapter 7 episode 8.dat
+#: chapters/chapter 7/8.dat
 msgid "thank you for   playing through this game.                      i hope that...                  ...that you got something from  it."
 msgstr ""
 
-#: custom/gallery episode 0.dat
+#: custom/gallery/0.dat
 msgid "0 1 5"
 msgstr ""
 
-#: custom/gallery episode 1.dat
+#: custom/gallery/1.dat
 msgid "an ode to msr   fish"
 msgstr ""
 
-#: custom/gallery episode 2.dat
+#: custom/gallery/2.dat
 msgid "insomnia"
 msgstr ""
 
-#: custom/gallery episode 3.dat
+#: custom/gallery/3.dat
 msgid "	anti-moebius"
 msgstr ""
 
-#: custom/gallery episode 4.dat
+#: custom/gallery/4.dat
 msgid "the marketplace"
 msgstr ""
 
-#: custom/the heist episode 0.dat
+#: custom/the heist/0.dat
 msgid "tonight's the   night                           there are guardsin the way                      if i stay in theshadows, maybe  they won't see  me"
 msgstr ""
 
-#: custom/the heist episode 1.dat
+#: custom/the heist/1.dat
 msgid "the vault is at the end of this hallway                         i need to be    careful not to  trip the lazers "
 msgstr ""
 
-#: custom/the heist episode 2.dat
+#: custom/the heist/2.dat
 msgid "it's dark in    here                            quickly, grab asmuch as possible                be careful not  to get lost"
 msgstr ""
 
-#: custom/the heist episode 3.dat
+#: custom/the heist/3.dat
 msgid "there are guardseverywhere                      there must be   somewhere to laylow for a while"
 msgstr ""
 
-#: custom/the heist episode 4.dat
+#: custom/the heist/4.dat
 msgid "your diomands   are worthless                   there is an     inperfection at the core        "
 msgstr ""
 
-#: custom/town episode 0.dat
+#: custom/town/0.dat
 msgid "oh, my son.                     come here, i    have a job for  you."
 msgstr ""
 
-#: custom/town episode 1.dat
+#: custom/town/1.dat
 msgid "go to your      grandmother's   next-door; i    she needs       someone to do   some shopping   for her."
 msgstr ""
 
-#: custom/town episode 10.dat
-msgid "that's right, myboy; stop       running.                        mmm, you have   the most        delicious       brains!"
-msgstr ""
-
-#: custom/town episode 2.dat
+#: custom/town/2.dat
 msgid "come here while i have a better look at you, my boy."
 msgstr ""
 
-#: custom/town episode 3.dat
+#: custom/town/3.dat
 msgid "ah, you've grownup.                             now, your grannyneeds some blue pills from the  shop across the street.                         could you fetch her some?"
 msgstr ""
 
-#: custom/town episode 4.dat
+#: custom/town/4.dat
 msgid "i should        probably bring  them straight   back to her."
 msgstr ""
 
-#: custom/town episode 5.dat
+#: custom/town/5.dat
 msgid "thank you very  much my boy.                    your aunt has   been asking for you; she lives  around the      coern from your house, you know?                you should visit"
 msgstr ""
 
-#: custom/town episode 6.dat
+#: custom/town/6.dat
 msgid "i've lived all  alone here sinceyour uncle died.                i cannot leave  this house, but could you bring these flowers tothe graveyard   behind the      supermarket?"
 msgstr ""
 
-#: custom/town episode 7.dat
+#: custom/town/7.dat
 msgid "rot in hell     uncle, may you  never molest a  child again.                    holy shit...    what's          happening?                      must check on   mom!	"
 msgstr ""
 
-#: custom/town episode 8.dat
+#: custom/town/8.dat
 msgid "zombies? what's this about      zombies?                        stop bothering  me, son; go takegrandma her     dinner.	"
 msgstr ""
 
-#: custom/town episode 9.dat
+#: custom/town/9.dat
 msgid "that's right,   boy, why don't  you come here   and give grandmaher dinner!"
 msgstr ""
 
-#: custom/waiting for episode 0.dat
+#: custom/town/10.dat
+msgid "that's right, myboy; stop       running.                        mmm, you have   the most        delicious       brains!"
+msgstr ""
+
+#: custom/waiting for/0.dat
 msgid "vladimir:       you again!"
 msgstr ""
 
-#: custom/waiting for episode 1.dat
+#: custom/waiting for/1.dat
 msgid "estragon:       don't touch me!"
 msgstr ""
 
-#: custom/waiting for episode 10.dat
-msgid "estragon:                       another day donewith."
-msgstr ""
-
-#: custom/waiting for episode 11.dat
-msgid "vladimir:       not yet."
-msgstr ""
-
-#: custom/waiting for episode 12.dat
-msgid "estragon:       for me it's overand done with,  no matter what  happens.                        i heard you     singing."
-msgstr ""
-
-#: custom/waiting for episode 13.dat
-msgid "vladimir:       that's right, i remember."
-msgstr ""
-
-#: custom/waiting for episode 14.dat
-msgid "estragon:       that finished   me.  i said to  myself, he's allalone, he thinksi'm gone        forever, and he sings."
-msgstr ""
-
-#: custom/waiting for episode 15.dat
-msgid "vladimir:       one is not      master of one's moods.                          all day i've    felt in great   form.                          "
-msgstr ""
-
-#: custom/waiting for episode 16.dat
-msgid "vladimir:       i didn't get up in the night,   not once!"
-msgstr ""
-
-#: custom/waiting for episode 17.dat
-msgid "estragon:       you see, you    piss better wheni'm not there."
-msgstr ""
-
-#: custom/waiting for episode 18.dat
-msgid "vladimir:       i missed you ...and at the same time i was      happy.                          isn't that a    strange thing?"
-msgstr ""
-
-#: custom/waiting for episode 19.dat
-msgid "serialization::archive"
-msgstr ""
-
-#: custom/waiting for episode 2.dat
+#: custom/waiting for/2.dat
 msgid "vladimir:       do you want me  to go away?                     gogo!                           did they beat   you?                            gogo!"
 msgstr ""
 
-#: custom/waiting for episode 20.dat
-msgid "vladimir:       perhaps it's notquite the right word."
-msgstr ""
-
-#: custom/waiting for episode 21.dat
-msgid "estragon:       and now?"
-msgstr ""
-
-#: custom/waiting for episode 22.dat
-msgid "vladimir:       now?            ...             there you are   again...                        there we are    again...                        there i am      again."
-msgstr ""
-
-#: custom/waiting for episode 23.dat
-msgid "estragon:       you see, you    feel worse when i'm with you.                   i feel better   alone too."
-msgstr ""
-
-#: custom/waiting for episode 24.dat
-msgid "vladimir:       then why do you always come     crawling back?"
-msgstr ""
-
-#: custom/waiting for episode 25.dat
-msgid "estragon:       i don't know."
-msgstr ""
-
-#: custom/waiting for episode 3.dat
+#: custom/waiting for/3.dat
 msgid "vladimir:       where did you   spend the night?"
 msgstr ""
 
-#: custom/waiting for episode 4.dat
+#: custom/waiting for/4.dat
 msgid "estragon:       don't touch me!                 don't question  me!                             don't speak to  me!                             stay with me!"
 msgstr ""
 
-#: custom/waiting for episode 5.dat
+#: custom/waiting for/5.dat
 msgid "vladimir:       did i ever leaveyou?"
 msgstr ""
 
-#: custom/waiting for episode 6.dat
+#: custom/waiting for/6.dat
 msgid "estragon:       you let me go."
 msgstr ""
 
-#: custom/waiting for episode 7.dat
+#: custom/waiting for/7.dat
 msgid "vladimir:       look at me.                     will you look atme!"
 msgstr ""
 
-#: custom/waiting for episode 8.dat
+#: custom/waiting for/8.dat
 msgid "estragon:       what a day!"
 msgstr ""
 
-#: custom/waiting for episode 9.dat
+#: custom/waiting for/9.dat
 msgid "vladimir:       who beat you?                   tell me."
 msgstr ""
 
-#: custom/wirefractals episode 0.dat
+#: custom/waiting for/10.dat
+msgid "estragon:                       another day donewith."
+msgstr ""
+
+#: custom/waiting for/11.dat
+msgid "vladimir:       not yet."
+msgstr ""
+
+#: custom/waiting for/12.dat
+msgid "estragon:       for me it's overand done with,  no matter what  happens.                        i heard you     singing."
+msgstr ""
+
+#: custom/waiting for/13.dat
+msgid "vladimir:       that's right, i remember."
+msgstr ""
+
+#: custom/waiting for/14.dat
+msgid "estragon:       that finished   me.  i said to  myself, he's allalone, he thinksi'm gone        forever, and he sings."
+msgstr ""
+
+#: custom/waiting for/15.dat
+msgid "vladimir:       one is not      master of one's moods.                          all day i've    felt in great   form.                          "
+msgstr ""
+
+#: custom/waiting for/16.dat
+msgid "vladimir:       i didn't get up in the night,   not once!"
+msgstr ""
+
+#: custom/waiting for/17.dat
+msgid "estragon:       you see, you    piss better wheni'm not there."
+msgstr ""
+
+#: custom/waiting for/18.dat
+msgid "vladimir:       i missed you ...and at the same time i was      happy.                          isn't that a    strange thing?"
+msgstr ""
+
+#: custom/waiting for/19.dat
+msgid "serialization::archive"
+msgstr ""
+
+#: custom/waiting for/20.dat
+msgid "vladimir:       perhaps it's notquite the right word."
+msgstr ""
+
+#: custom/waiting for/21.dat
+msgid "estragon:       and now?"
+msgstr ""
+
+#: custom/waiting for/22.dat
+msgid "vladimir:       now?            ...             there you are   again...                        there we are    again...                        there i am      again."
+msgstr ""
+
+#: custom/waiting for/23.dat
+msgid "estragon:       you see, you    feel worse when i'm with you.                   i feel better   alone too."
+msgstr ""
+
+#: custom/waiting for/24.dat
+msgid "vladimir:       then why do you always come     crawling back?"
+msgstr ""
+
+#: custom/waiting for/25.dat
+msgid "estragon:       i don't know."
+msgstr ""
+
+#: custom/wirefractals/0.dat
 msgid "this chapter    contains some   experiments withfractal levels  that shrink to asingle point.                   in each of theselevels, the     purpose is to   find this point."
 msgstr ""
 
-#: custom/wirefractals episode 1.dat
+#: custom/wirefractals/1.dat
 msgid "'nobody will    deny that there is at least someroughness       everywhere'                                      - benoit          mandelbrot"
 msgstr ""
 
-#: custom/wirefractals episode 10.dat
-msgid "'when you make  the finding     yourself - even if you're the   last person on  earth to see thelight - you'll  never forget it'                 - carl            sagan"
-msgstr ""
-
-#: custom/wirefractals episode 2.dat
+#: custom/wirefractals/2.dat
 msgid "'the most       beautiful thing we can          experience is   the mysterious. it is the sourceof all true art and science.'                    - albert          einstein"
 msgstr ""
 
-#: custom/wirefractals episode 3.dat
+#: custom/wirefractals/3.dat
 msgid "'smooth shapes  are very rare inthe wild but    extremely       important in theivory tower and the factory.'                    - benoit          mandelbrot"
 msgstr ""
 
-#: custom/wirefractals episode 4.dat
+#: custom/wirefractals/4.dat
 msgid "'mathematics    possesses not   only truth, but also supreme    beauty.'                         - bertrand        russell"
 msgstr ""
 
-#: custom/wirefractals episode 5.dat
+#: custom/wirefractals/5.dat
 msgid "'every human    activity, good  or bad, except  mathematics,    must come to an end.'                                            - paul            erdos"
 msgstr ""
 
-#: custom/wirefractals episode 6.dat
+#: custom/wirefractals/6.dat
 msgid "'for much of my life there was  no place where  the things i    wanted to       investigate wereof interest to  anyone.'                         - benoit          mandelbrot"
 msgstr ""
 
-#: custom/wirefractals episode 7.dat
+#: custom/wirefractals/7.dat
 msgid "'everything     should be made  as simple as    possible, but   not simpler.'                                    - albert          einstein"
 msgstr ""
 
-#: custom/wirefractals episode 8.dat
+#: custom/wirefractals/8.dat
 msgid "'nature flies   from the        infinite, for   the infinite is unending, and   nature seeks an end.'                            - aristotle"
 msgstr ""
 
-#: custom/wirefractals episode 9.dat
+#: custom/wirefractals/9.dat
 msgid "'truth is ever  to be found in  simplicity, and not in the      multiplicity andconfusion of    things.'                         - isaac           newton"
+msgstr ""
+
+#: custom/wirefractals/10.dat
+msgid "'when you make  the finding     yourself - even if you're the   last person on  earth to see thelight - you'll  never forget it'                 - carl            sagan"
 msgstr ""
 

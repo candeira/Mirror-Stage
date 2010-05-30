@@ -1,3 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-04 10:27+1000\n"
+"PO-Revision-Date: 2010-05-30 21:27+1000\n"
+"Last-Translator: Javier Candeira <javier@candeira.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.cpp:2043
+msgid "increpare presents"
+msgstr "increpare presenta"
+
+#: main.cpp:2075
+msgid "chapter over"
+msgstr "fin del capitulo"
+
+#: main.cpp:2111
+#: main.cpp:2147
+#: main.cpp:2326
+#: main.cpp:2469
+msgid "enter name"
+msgstr "poner nombre"
+
+#: main.cpp:2175
+#: main.cpp:2528
+msgid "new chapter"
+msgstr "nuevo capitulo"
+
+#: main.cpp:2185
+#: main.cpp:2540
+msgid "--new--"
+msgstr "--nuevo--"
+
+#: main.cpp:2320
+#: main.cpp:2464
+msgid "save episode as"
+msgstr "guardar como"
+
+#: main.cpp:2322
+#: main.cpp:2466
+#: main.cpp:2724
+#: main.cpp:2787
+msgid "select episode"
+msgstr "seleccionar ep."
+
+#: main.cpp:2390
+#: main.cpp:2434
+msgid "insert new"
+msgstr "insertar nuevo"
+
+#: main.cpp:2413
+#: main.cpp:2492
+#: main.cpp:2761
+#: main.cpp:2826
+#: main.cpp:2846
+msgid "episode "
+msgstr "episodio"
+
+#: main.cpp:2526
+msgid "edit chapter"
+msgstr "editar capitulo"
+
+#: main.cpp:2879
+msgid "select chapter"
+msgstr ""
+
+#: main.cpp:2944
+msgid "mirror stage"
+msgstr ""
+
+#: main.cpp:2968
+msgid "play"
+msgstr "jugar"
+
+#: main.cpp:2972
+msgid "custom"
+msgstr "extra"
+
+#: main.cpp:2976
+msgid "editor"
+msgstr ""
+
+#: main.cpp:2978
+msgid "quit"
+msgstr "salir"
+
 #: chapters/chapter 1/0.dat
 msgid "please wait;                    someone will    be with you     shortly.        "
 msgstr ""
@@ -98,8 +193,7 @@ msgstr ""
 msgid "sometimes, you  will be able to infer your own  presence, thoughit be concealed.                this can be     viewed in a     different light."
 msgstr ""
 
-#: chapters/chapter 3/7.dat
-#: chapters/chapter 3/14.dat
+#: chapters/chapter 3/7.dat 3/14.dat
 msgid "a recap"
 msgstr ""
 
@@ -272,7 +366,7 @@ msgid "insomnia"
 msgstr ""
 
 #: custom/gallery/3.dat
-msgid "	anti-moebius"
+msgid "\tanti-moebius"
 msgstr ""
 
 #: custom/gallery/4.dat
@@ -328,11 +422,11 @@ msgid "i've lived all  alone here sinceyour uncle died.                i cannot 
 msgstr ""
 
 #: custom/town/7.dat
-msgid "rot in hell     uncle, may you  never molest a  child again.                    holy shit...    what's          happening?                      must check on   mom!	"
+msgid "rot in hell     uncle, may you  never molest a  child again.                    holy shit...    what's          happening?                      must check on   mom!\t"
 msgstr ""
 
 #: custom/town/8.dat
-msgid "zombies? what's this about      zombies?                        stop bothering  me, son; go takegrandma her     dinner.	"
+msgid "zombies? what's this about      zombies?                        stop bothering  me, son; go takegrandma her     dinner.\t"
 msgstr ""
 
 #: custom/town/9.dat

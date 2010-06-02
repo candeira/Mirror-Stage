@@ -1,10 +1,10 @@
 Source: mirrorstage
-Section: unknown
+Section: games
 Priority: extra
 Maintainer: Javier Candeira <javier@candeira.com>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.8.1
-Homepage: <insert the upstream URL, if relevant>
+Homepage: <http://www.increpare.com/2009/03/mirror-stage-done/>
 
 Package: mirrorstage
 Architecture: any

@@ -1,21 +1,22 @@
 This package was debianized by Javier Candeira <javier@candeira.com> on
 Sun, 30 May 2010 23:07:51 +1000.
 
-It was downloaded from <url://example.com>
+It was downloaded from <http://www.increpare.com/2009/03/mirror-stage-done/>
 
 Upstream Author(s):
 
-    <put author's name and email here>
-    <likewise for another author>
+    Stephen Lavelle aka Increpare <analytic@gmail.com>
+    Terry Cavanagh <terry@maths.tcd.ie>
 
 Copyright:
 
-    <Copyright (C) YYYY Name OfAuthor>
-    <likewise for another author>
+    Copyright (C) 2009 Stephen Lavelle aka Increpare
+    Copyright (C) 2009 Terry Cavanagh
 
 License:
 
-    <Put the license of the package here indented by 4 spaces>
+    GPL-3
+
 
 The Debian packaging is:
 

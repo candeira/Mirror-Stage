@@ -5,15 +5,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: mirrorstage\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-04 10:27+1000\n"
-"PO-Revision-Date: 2010-06-02 12:12+1000\n"
+"PO-Revision-Date: 2010-06-03 15:07+1000\n"
 "Last-Translator: Javier Candeira <javier@candeira.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Javier Candeira <javier@candeira.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=ascii\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: ascii\n"
 
 #: main.cpp:2043
 msgid "increpare presents"
@@ -28,7 +31,7 @@ msgstr "fin del capitulo"
 #: main.cpp:2326
 #: main.cpp:2469
 msgid "enter name"
-msgstr "poner nombre"
+msgstr "introducir nombre"
 
 #: main.cpp:2175
 #: main.cpp:2528
@@ -50,7 +53,7 @@ msgstr "guardar como"
 #: main.cpp:2724
 #: main.cpp:2787
 msgid "select episode"
-msgstr "seleccionar ep."
+msgstr "que episodio?"
 
 #: main.cpp:2390
 #: main.cpp:2434
@@ -131,7 +134,7 @@ msgstr "la sesion se ha terminado, a no ser que tengas  algo mas        que deci
 
 #: chapters/chapter 2/0.dat
 msgid "there he is,    across the room.                he is very      handsome.                       maybe i should  talk to him...  "
-msgstr "ahi esta, al otroextremo de la   habitacion.                     es muy guapo.                   quiza debería   hablar con el..."
+msgstr "ahi esta, al otroextremo de la   habitacion.                     es muy guapo.                   quiza deberia   hablar con el..."
 
 #: chapters/chapter 2/1.dat
 msgid "he is coming fordinner soon,                    but the table isset all wrong!  "
@@ -167,7 +170,7 @@ msgstr "superamos la    desigualdad y laintolerancia   de la sociedad  con amor 
 
 #: chapters/chapter 3/0.dat
 msgid "this is the     beginning of a  litany.                         it could also   be an admission of defeat.                      it could also bea heartfelt     apology."
-msgstr "esto es         el comienzo     de una letania.                 tambien podría  ser una admisionde derrota.                     o tambien una   sincera         disculpa."
+msgstr "esto es         el comienzo     de una letania.                 tambien podria  ser una admisionde derrota.                     o tambien una   sincera         disculpa."
 
 #: chapters/chapter 3/1.dat
 msgid "you must        sometimes try   be aware of yourown behaviour."
@@ -231,127 +234,127 @@ msgstr "eso no es todo. en cierto modo, eso no es nada.                 espero q
 
 #: chapters/chapter 4/0.dat
 msgid "you awake to    find yourself   lying by the    lake, amongst   the bullrushes.                 this was where  you grew up, andyet it is so    unfamiliar now."
-msgstr ""
+msgstr "te despiertas y descubres que   estas en la     orilla del lago,entre los juncos                aqui es donde tecriaste y, sin  embargo, todo esirreconocible."
 
 #: chapters/chapter 4/1.dat
 msgid "i lived in a    small house,    back then, with a garden in the back.                           eventually, i   had to move on, to take the     perilous trip tothe city."
-msgstr ""
+msgstr "entonces vivia  en una casita   con un jardin   en la parte de  atras.                          al final tuve que   pasar paginay hacer el viajea la peligrosa  ciudad."
 
 #: chapters/chapter 4/2.dat
 msgid "facing the gate,i saw the city,                 it was fortified - wrapped up   inside itself."
-msgstr ""
+msgstr "frente a la     puerta, vi la   ciudad,           fortificada,    estaba envuelta en si misma."
 
 #: chapters/chapter 4/3.dat
 msgid "the hive,       the locus of    activity.                       could i possiblyfind a place formyself, here?"
-msgstr ""
+msgstr "el enjambre,    el centro de    toda actividad.                 me seria posibleencontrar aqui mi lugar?"
 
 #: chapters/chapter 4/4.dat
 msgid "from its base,  the tower lookedso tall - i felturge'd to       experience its  full extent."
-msgstr ""
+msgstr "desde la base,  la torre pareciaaltisima; senti el impulso   de experimentar    todo su alzado."
 
 #: chapters/chapter 4/5.dat
 msgid "i teetered aboutfrom that       height - i saw  a girder        stretching out, and longed to   cross it."
-msgstr ""
+msgstr "me tambalee     desde esa altura...vi una viga ydesee cruzarla."
 
 #: chapters/chapter 4/6.dat
 msgid "the city blocks they stretch    and writhe.                     and in the sky, there be a      finite city,    from which all  roads come and  leave. my love, he be there."
-msgstr ""
+msgstr "las calles se   extienden y se  revuelven.                      y en el cielo   hay una ciudad  finita, en la   que comienzan y terminan todos  los caminos. mi amor esta alli."
 
 #: chapters/chapter 4/7.dat
 msgid "this church is  no place for me now.                            i will find my  peace in a      toilet cubicle  of the bar down the street from here."
-msgstr ""
+msgstr "esta iglesia no es sitio para mien este momento.                alcanzare la pazen un retrete   del bar que hay calle abajo."
 
 #: chapters/chapter 4/8.dat
 msgid "and,i think i   did experience  some then, some satisfaction.                   "
-msgstr ""
+msgstr "y entonces, creoque senti un    poco de...      de satisfaccion."
 
 #: chapters/chapter 5/0.dat
 msgid "i started, in   the air, and in the lightness,  to stretch out  my hands.                       they felt the   chill of the    frost."
-msgstr ""
+msgstr "comence, en el  aire, y en la   claridad, a     extender las    manos.                          senti en ellas  el escalofrio   de la escarcha."
 
 #: chapters/chapter 5/1.dat
 msgid "the snow began  to fall, then.                  i watched a     snowflake droop and melt as it  landed on my    finger."
-msgstr ""
+msgstr "entonces empezo a caer la nieve.                vi como caia un copo de nieve y se me fundia en el dedo."
 
 #: chapters/chapter 5/2.dat
 msgid "and, through thefreezing air i  plummeted.                      down below, i   hoped, in vain, for the orange  warmth of       childhood."
-msgstr ""
+msgstr "y me lance al   aire congelado.                 en el fondo, en vano, esperaba  hallar el calor anaranjado de   la infancia."
 
 #: chapters/chapter 5/3.dat
 msgid "the cold yet    still persisted,but i had to    wait outside yeta while longer -                all alone, i hadto make a       diversion of    myself to abide the chill."
-msgstr ""
+msgstr "el frio todavia persistia, pero me toco esperar fuera un rato   mas.                            a solas, tuve   que inventarme  una diversion   para soportar   la helada."
 
 #: chapters/chapter 5/4.dat
 msgid "as dusk         approached, on  that snowy day, i looked to the horizon."
-msgstr ""
+msgstr "el crepusculo seacercaba sobre  la nieve;       yo segui mirandoal horizonte."
 
 #: chapters/chapter 5/5.dat
 msgid "and, looking up,i saw the sky, adull mass of    faded stars.                    but how         beautiful they  were!"
-msgstr ""
+msgstr "y, levantando lavista al cielo, vi una coleccionde estrellas.                   estaban         desvalidas.                      pero eran       bellisimas!"
 
 #: chapters/chapter 5/6.dat
 msgid "and when i sat  down, the next  morning, after  i had gotten in,my mind recalledthe cold still  outside, and...                 ...and i hung myhead down in    shame..."
-msgstr ""
+msgstr "y, cuando me    sente, al dia   siguiente, tras  entrar, mi menterecordo el frio del exterior, y  ...                             ...y baje       avergonzado     la cabeza..."
 
 #: chapters/chapter 6/0.dat
 msgid "my head is      aching...where  am i?                           where are my    children?         "
-msgstr ""
+msgstr "me duele        la cabeza...    donde estoy?                    donde estan     mis hijas?"
 
 #: chapters/chapter 6/1.dat
 msgid "i found myself  in a great      complex, with   doors all about.                the exit is in  a smaller room.                 i must escape,  and go home to  my family."
-msgstr ""
+msgstr "me encontraba enun complejo     enorme, lleno depuertas.                        la salida esta  en una sala     no tan grande.                  debo escapar    y volver a casa con mi familia."
 
 #: chapters/chapter 6/2.dat
 msgid "i am in the     main corridor   now.  the way   out is in a     smaller sector.                 my heart is     breaking."
-msgstr ""
+msgstr "ahora estoy en  el pasillo      principal.      la salida esta  en otro sector  mas reducido.                   me parte        el corazon."
 
 #: chapters/chapter 6/3.dat
 msgid "i staggered     along the beach.                how long have mydaughters been  without a       father?                         i saw a boat at the distant end of the beach."
-msgstr ""
+msgstr "me tambalee por toda la playa.                  cuato tiempo   llevaban mis hijassin padre?                      en la playa,    a lo lejos,     vi una barca."
 
 #: chapters/chapter 6/4.dat
 msgid "i then began theachingly long   journey from thecoast to my homeisland.                  "
-msgstr ""
+msgstr "comence entoncesel dolorosamentelargo viaje     desde la costa  hasta la isla   donde esta      mi hogar."
 
 #: chapters/chapter 6/5.dat
 msgid "arriving home,  i embraced my   daughters, and  later i cried bymy wife's       graveside."
-msgstr ""
+msgstr "al llegar a casabese a mis hijasy mas tarde     llore junto a   la tumba        de mi esposa."
 
 #: chapters/chapter 7/0.dat
 msgid "the doily"
-msgstr ""
+msgstr "el tapete"
 
 #: chapters/chapter 7/1.dat
 msgid "my grandmother'sstockings."
-msgstr ""
+msgstr "las medias   de mi abuela."
 
 #: chapters/chapter 7/2.dat
 msgid "the hydrangea   flower."
-msgstr ""
+msgstr "la flor      de la hortensia."
 
 #: chapters/chapter 7/3.dat
 msgid "the area around the tree was    blanketed with  petals.                         i sifted throughthem to see if icould find the  smallest."
-msgstr ""
+msgstr "el area de      alrededor del   arbol estaba    cubierta de     petalos.                        los cribe todos buscando el mas minusculo."
 
 #: chapters/chapter 7/4.dat
 msgid "the wicker mat."
-msgstr ""
+msgstr "el tapiz        de mimbre."
 
 #: chapters/chapter 7/5.dat
 msgid "lights out time!"
-msgstr ""
+msgstr "hora de apagar  las luces!"
 
 #: chapters/chapter 7/6.dat
 msgid "the three clocksdown the hall,  when i was      trying to sleep."
-msgstr ""
+msgstr "los tres relojesdel pasillo     cuando intentabadormir."
 
 #: chapters/chapter 7/7.dat
 msgid "my aunt's       sweet shop."
-msgstr ""
+msgstr "la tienda       de caramelos    de mi tia."
 
 #: chapters/chapter 7/8.dat
 msgid "thank you for   playing through this game.                      i hope that...                  ...that you got something from  it."
-msgstr ""
+msgstr "gracias por     jugar este juegohasta el final.                 espero que...                   ...que te haya  aprovechado."
 
 #: custom/gallery/0.dat
 msgid "0 1 5"

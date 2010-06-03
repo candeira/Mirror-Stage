@@ -2994,8 +2994,8 @@ int main(int argc, char *argv[])
     setlocale (LC_MESSAGES, "");
     setlocale (LC_CTYPE, "");
     setlocale (LC_COLLATE, "");
-    textdomain ("mirrorspace");
-    bindtextdomain ("mirrorspace", NULL);
+    textdomain ("mirrorstage");
+    bindtextdomain ("mirrorstage", NULL);
     #endif
 
     //The frame rate regulator

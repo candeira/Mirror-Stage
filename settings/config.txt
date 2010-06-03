@@ -12,7 +12,7 @@
 
 screenwidth = 640
 screenheight = 480
-fullscreen = true
+fullscreen = false
 maxdepth = 500
 maxrealdepth=30
 correct_aspect=false --currently doesn't do anything

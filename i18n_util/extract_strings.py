@@ -35,6 +35,13 @@ def allchapters(dirs):
                     chapter = f.read()
                 yield (path, filename, chapter)
 
+def allchapternames(dirs):
+    for eachdir in dirs:
+        for path, dirnames, filenames in os.walk(os.path.join(BASEDIR, eachdir)):
+            dirnames.sort()
+            for dirname in dirnames:
+                yield dirname
+
 def print_grid(text, filepath, f):
     # for me to look at while I translate
     text = text.replace(" ", "_")
@@ -55,11 +62,20 @@ def print_pot(text, filepath, f):
 
 pot = open("chapters.pot", 'w')
 grids = open("grids.txt", 'w')
+
+# chapter names
+for chaptername in allchapternames(("chapters", "custom")):
+    print_pot(chaptername, "...-"+chaptername+"-", pot)
+
+# actual text from inside the chapters
 for (path, filename, chapter) in allchapters(("chapters", "custom")):
     line = extract_string(chapter)
     filepath = os.path.join(path, filename)
     print_grid(line, filepath, grids)
     print_pot(line, filepath, pot)
+
+print "WARNING: Please remove duplicates manually!"
+
 pot.close()
 grids.close()
     

@@ -2920,7 +2920,7 @@ void draw_title()
             s.resize(13);
 
             //13 CHARACTER LIMIT ON CHAPTER NAMES
-            print_straight_text(s);
+            print_straight_text(_(s.c_str()));
         }
         glPopMatrix();
 

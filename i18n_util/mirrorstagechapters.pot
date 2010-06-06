@@ -80,6 +80,54 @@ msgstr ""
 msgid "quit"
 msgstr ""
 
+#: -chapter 1-
+msgid "chapter 1"
+msgstr ""
+
+#: -chapter 2-
+msgid "chapter 2"
+msgstr ""
+
+#: -chapter 3-
+msgid "chapter 3"
+msgstr ""
+
+#: -chapter 4-
+msgid "chapter 4"
+msgstr ""
+
+#: -chapter 5-
+msgid "chapter 5"
+msgstr ""
+
+#: -chapter 6-
+msgid "chapter 6"
+msgstr ""
+
+#: -chapter 7-
+msgid "chapter 7"
+msgstr ""
+
+#: -gallery-
+msgid "gallery"
+msgstr ""
+
+#: -the heist-
+msgid "the heist"
+msgstr ""
+
+#: -town-
+msgid "town"
+msgstr ""
+
+#: -waiting for-
+msgid "waiting for"
+msgstr ""
+
+#: -wirefractals-
+msgid "wirefractals"
+msgstr ""
+
 #: chapters/chapter 1/0.dat
 msgid ""
 "please wait;                    someone will    be with you     "

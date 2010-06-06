@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: mirrorstage\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-04 10:27+1000\n"
-"PO-Revision-Date: 2010-06-03 17:22+1000\n"
+"PO-Revision-Date: 2010-06-06 16:56+1000\n"
 "Last-Translator: Javier Candeira <javier@candeira.com>\n"
 "Language-Team: Javier Candeira <javier@candeira.com>\n"
 "MIME-Version: 1.0\n"
@@ -90,11 +90,59 @@ msgstr "extra"
 
 #: main.cpp:2976
 msgid "editor"
-msgstr "editor"
+msgstr "editar"
 
 #: main.cpp:2978
 msgid "quit"
 msgstr "salir"
+
+#: -chapter 1-
+msgid "chapter 1"
+msgstr "capitulo 1"
+
+#: -chapter 2-
+msgid "chapter 2"
+msgstr "capitulo 2"
+
+#: -chapter 3-
+msgid "chapter 3"
+msgstr "capitulo 3"
+
+#: -chapter 4-
+msgid "chapter 4"
+msgstr "capitulo 4"
+
+#: -chapter 5-
+msgid "chapter 5"
+msgstr "capitulo 5"
+
+#: -chapter 6-
+msgid "chapter 6"
+msgstr "capitulo 6"
+
+#: -chapter 7-
+msgid "chapter 7"
+msgstr "capitulo 7"
+
+#: -gallery-
+msgid "gallery"
+msgstr "galeria"
+
+#: -the heist-
+msgid "the heist"
+msgstr "el golpe"
+
+#: -town-
+msgid "town"
+msgstr "la villa"
+
+#: -waiting for-
+msgid "waiting for"
+msgstr "esperando a"
+
+#: -wirefractals-
+msgid "wirefractals"
+msgstr "hilofractales"
 
 #: chapters/chapter 1/0.dat
 msgid "please wait;                    someone will    be with you     shortly.        "

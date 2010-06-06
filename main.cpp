@@ -1942,7 +1942,7 @@ void interludeshow()
     glLoadIdentity();
 
     glPushMatrix();
-    print_text(level.introtext.c_str());
+    print_text(_(level.introtext.c_str()));
 
     glPopMatrix();
 }
@@ -2338,7 +2338,7 @@ void draw_editmode(bool resetright, bool resetleftbounds)
 
             glColor4f(1, 1, 1, titletick);
 
-            print_straight_text(enteringname);
+            print_straight_text(_(enteringname.c_str()));
         }
 
         if (curtitleselection2 >= 0)
@@ -2571,7 +2571,7 @@ void draw_editmode(bool resetright, bool resetleftbounds)
             s.resize(13);
 
             //13 CHARACTER LIMIT ON CHAPTER NAMES
-            print_straight_text(s);
+            print_straight_text(_(s.c_str()));
         }
         glPopMatrix();
 

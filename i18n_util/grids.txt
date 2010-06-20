@@ -606,7 +606,7 @@ it.
 
 #: custom/gallery/0.dat
 
-0_1_5
+bones
 
 #: custom/gallery/1.dat
 
@@ -947,8 +947,8 @@ strange_thing?
 
 #: custom/waiting for/19.dat
 
-serialization::a
-rchive
+estragon:_______
+happy?
 
 #: custom/waiting for/20.dat
 

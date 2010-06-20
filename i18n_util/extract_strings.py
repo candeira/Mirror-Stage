@@ -11,7 +11,8 @@ def extract_string(chapter):
     """
     tokens = chapter.split(' ')
     length = tokens[5]
-    index = chapter.find(length) + len(length) + 1
+    offset = ' '.join(tokens[:6])
+    index = len(offset)+1
     end = index + int(length)
     return chapter[index:end]
     

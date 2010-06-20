@@ -146,8 +146,7 @@ msgstr ""
 msgid "sometimes, you  will be able to infer your own  presence, thoughit be concealed.                this can be     viewed in a     different light."
 msgstr ""
 
-#: chapters/chapter 3/7.dat
-#: chapters/chapter 3/14.dat
+#: chapters/chapter 3/7.dat 3/14.dat
 msgid "a recap"
 msgstr ""
 
@@ -308,7 +307,7 @@ msgid "thank you for   playing through this game.                      i hope th
 msgstr ""
 
 #: custom/gallery/0.dat
-msgid "0 1 5"
+msgid "bones"
 msgstr ""
 
 #: custom/gallery/1.dat
@@ -468,7 +467,7 @@ msgid "vladimir:       i missed you ...and at the same time i was      happy.   
 msgstr ""
 
 #: custom/waiting for/19.dat
-msgid "serialization::archive"
+msgid "estragon:       happy?"
 msgstr ""
 
 #: custom/waiting for/20.dat
